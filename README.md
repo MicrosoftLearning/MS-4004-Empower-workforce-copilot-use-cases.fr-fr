@@ -1,0 +1,1 @@
+# MS-4004-Empower-workforce-copilot-use-cases.fr-fr
