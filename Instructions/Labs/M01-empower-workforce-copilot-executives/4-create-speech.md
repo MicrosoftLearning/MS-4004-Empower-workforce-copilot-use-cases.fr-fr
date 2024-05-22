@@ -7,7 +7,7 @@ Les cadres qui se servent avec brio de Copilot pour Word bénéficient d’un av
 
 ### Liaison de fichiers dans Copilot
 
-Dans cet exercice, vous dirigez Copilot dans Word pour écrire un discours pour vous en fonction du compte de résultats de votre entreprise, qui est stocké dans un document Word. Comme vous vous en souvenez peut-être dans une formation précédente, lorsque vous liez un fichier tel que celui-ci à un prompt Copilot, le fichier DOIT se trouver dans un compte OneDrive. Vous ne pouvez pas lier à un fichier stocké localement sur votre PC.
+Dans cet exercice, vous demandez à Copilot dans Word de vous écrire un discours basé sur le compte de résultats de votre entreprise, stocké dans un document Word. Petit rappel : lorsque vous liez un fichier tel que celui-ci à un prompt Copilot, le fichier DOIT se trouver dans un compte OneDrive. Vous ne pouvez pas effectuer de liaison à un fichier stocké localement sur votre PC.
 
 Vous pouvez lier le fichier au prompt Copilot en utilisant l’une des méthodes suivantes :
 
@@ -19,7 +19,7 @@ Dans cet exercice, vous sélectionnez le compte de résultats de l’entreprise 
 
 ### Exercice
 
-En tant que directeur financier chez Fabrikam, Inc., une société de services informatiques située à Minneapolis, MN, vous rencontrez la semaine prochaine avec les principaux actionnaires de l’entreprise pour leur présenter les performances financières de fin d’année 2023. Votre vice-président de la comptabilité vous a fourni un résumé du compte de résultats de votre entreprise.
+En tant que directeur financier chez Fabrikam, Inc., une société de services informatiques située à Minneapolis, MN, vous rencontrez la semaine prochaine les principaux actionnaires de l’entreprise pour leur présenter les performances financières de fin d’année 2023. Votre vice-président de la comptabilité vous a fourni un résumé du compte de résultats de votre entreprise.
 
 Vous envisagez d’utiliser Copilot pour écrire votre discours en fonction des résultats financiers indiqués dans le compte de résultats. Cet exercice vous guide tout au long d’une série de prompts que vous pouvez utiliser pour que Copilot dans Word génère votre discours, puis l’actualise en fonction des modifications que vous suggérez.
 
