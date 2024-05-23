@@ -1,18 +1,18 @@
 
 # Créer un discours à l’aide de Copilot dans Word
 ---
-Maîtriser Copilot pour Word peut être une compétence transformatrice pour les cadres chargés d’élaborer des discours percutants. Dans l’environnement commercial dynamique actuel, la communication efficace est au cœur du leadership. Copilot pour Word sert d’assistant d’écriture collaborative, qui suggère intelligemment du contenu et affine le langage en temps réel. Cet outil accélère non seulement le processus de rédaction de discours, mais garantit également la clarté, la cohérence et la prégnance du message final.
+Maîtriser Copilot pour Word peut être une compétence transformatrice pour les cadres chargés d’élaborer des discours percutants. Dans l’environnement commercial dynamique actuel, une communication efficace est au cœur du leadership. Copilot pour Word sert d’assistant d’écriture collaborative, qui suggère intelligemment du contenu et affine le langage en temps réel. Cet outil accélère non seulement le processus de rédaction de discours, mais garantit également la clarté, la cohérence et la prégnance du message final.
 
-Les cadres qui se servent avec brio de Copilot pour Word bénéficient d’un avantage concurrentiel, en traduisant facilement leurs idées en récits attrayants qui captivent les publics. Cet outil peut améliorer votre créativité et votre efficacité et vous permettre de faire des discours puissants. Copilot peut vous aider à développer un lien plus fort avec les parties prenantes et à avoir un effet durable dans le domaine du leadership.
+Les cadres qui se servent avec brio de Copilot pour Word bénéficient d’un avantage concurrentiel, en traduisant facilement leurs idées en récits attrayants à même de captiver tout type de public. Cet outil peut améliorer votre créativité et votre efficacité et vous permettre de faire des discours puissants. Copilot peut vous aider à développer un lien plus fort avec les parties prenantes et à avoir un effet durable dans le domaine du leadership.
 
 ### Liaison de fichiers dans Copilot
 
-Dans cet exercice, vous demandez à Copilot dans Word de vous écrire un discours basé sur le compte de résultats de votre entreprise, stocké dans un document Word. Petit rappel : lorsque vous liez un fichier tel que celui-ci à un prompt Copilot, le fichier DOIT se trouver dans un compte OneDrive. Vous ne pouvez pas effectuer de liaison à un fichier stocké localement sur votre PC.
+Dans cet exercice, vous demandez à Copilot dans Word de vous écrire un discours basé sur le compte de résultats de votre entreprise, stocké dans un document Word. Petit rappel : lorsque vous liez un fichier tel que celui-ci à un prompt Copilot, le fichier DOIT se trouver dans un compte OneDrive. Vous ne pouvez pas effectuer de liaison à un fichier stocké localement sur votre PC.
 
 Vous pouvez lier le fichier au prompt Copilot en utilisant l’une des méthodes suivantes :
 
  -  Sélectionnez le fichier dans la liste des fichiers utilisés récemment.
- -  Ouvrez le fichier et copiez son chemin à l’aide de l’option **Partager**, puis collez le chemin dans le prompt après la barre oblique (/).
+ -  Ouvrez le fichier et copiez-en le chemin à l’aide de l’option **Partager**, puis collez le chemin dans le prompt après la barre oblique (/).
  -  Copiez le chemin du fichier à partir de l’Explorateur de fichiers et collez-le dans le prompt après la barre oblique (/).
 
 Dans cet exercice, vous sélectionnez le compte de résultats de l’entreprise dans la liste des fichiers utilisés récemment.
@@ -33,9 +33,9 @@ Effectuez les étapes suivantes pour générer votre discours en utilisant Copil
 4.  Dans **Microsoft 365**, ouvrez un nouveau document **Microsoft Word** vide en entrant l’URL suivante : **Word.new** 
 5.  Dans la fenêtre **Brouillon avec Copilot** qui apparaît en haut du document vierge, entrez le prompt suivant :
     
-    **Écrivez un discours pour les actionnaires de Fabrikam qui résume le compte de résultats de 2023 de l’entreprise trouvé dans le fichier joint**.
+    **Écris un discours pour les actionnaires de Fabrikam qui résume le compte de résultats de 2023 de l’entreprise trouvé dans le fichier joint**.
 6.  Dans la fenêtre **Brouillon avec Copilot**, sélectionnez le bouton **Référencer votre contenu**. Dans le menu déroulant qui apparaît, sélectionnez **Parcourir les fichiers dans le cloud**.
-7.  Dans la fenêtre **Choisir un fichier** qui s’affiche, sous la liste des fichiers **Récents**, sélectionnez le fichier **Fabrikam 2023 Income Statement.docx**, puis sélectionnez le bouton **Joindre**. Notez comment le fichier s’affiche dans l’invite.
+7.  Dans la fenêtre **Choisir un fichier** qui s’affiche, sous la liste des fichiers **Récents**, sélectionnez le fichier **Fabrikam 2023 Income Statement.docx**, puis sélectionnez le bouton **Joindre**. Notez comment le fichier s’affiche dans le prompt.
 8.  Sélectionnez **Générer**. À ce stade, Copilot extrait les résultats financiers du compte de résultats et rédige l’ébauche d’un discours. Après avoir examiné le discours, vous décidez qu’il s’agit d’un bon point de départ, bien que vous souhaitiez modifier certaines choses.
 9.  Dans la fenêtre Copilot à la fin du discours, sélectionnez le bouton **Conserver**.
 10. Commencez par examiner les modifications suggérées par l’éditeur Copilot. Sélectionnez l’icône **Éditeur** qui apparaît dans la barre de menus en haut de la page.
