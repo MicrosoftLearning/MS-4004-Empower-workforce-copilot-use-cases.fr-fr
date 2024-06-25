@@ -26,8 +26,7 @@ En tant que consultant principal pour Trey Research, vous êtes responsable de l
     **Écrivez une nouvelle section pour ce document sur les types de VPN. Abordez les avantages et les inconvénients de chaque type. Ce contenu est destiné à un public technique. Veuillez donc fournir des détails spécifiques.**
 7.  Comme vous pouvez le voir, Copilot n’ajoute directement aucun nouveau contenu dans un document. Il affiche le contenu dans une fenêtre de réponse du volet Copilot. Il fournit toutefois un bouton **Copier** en bas de chaque fenêtre de réponse. Sélectionnez ainsi le bouton **Copier** pour copier son contenu dans votre Presse-papiers. En examinant le document, vous décidez de coller le contenu sous le premier paragraphe. Collez à présent le contenu.
     
-    > [!TIP]
-    > Lorsque vous sélectionnez le bouton **Copier** pour une fenêtre de réponse, il copie tout le contenu (y compris les commentaires de Copilot qui vous sont destinés). Ces types de commentaires se trouvent généralement au début et à la fin de la réponse. Assurez-vous de supprimer ces commentaires une fois la réponse collée dans votre document. Il est possible que la police et la taille de police du nouveau contenu ne correspondent pas à celles utilisées dans le document. Par conséquent, vous devez les modifier pour les faire correspondre.
+    > **CONSEIL :** Lorsque vous sélectionnez le bouton **Copier** pour une fenêtre de réponse, il copie tout le contenu (y compris les commentaires de Copilot qui vous sont destinés). Ces types de commentaires se trouvent généralement au début et à la fin de la réponse. Assurez-vous de supprimer ces commentaires une fois la réponse collée dans votre document. Il est possible que la police et la taille de police du nouveau contenu ne correspondent pas à celles utilisées dans le document. Par conséquent, vous devez les modifier pour les faire correspondre.
 
 8.  Lors d’une révision supplémentaire, vous remarquez l’absence de mention concernant des stratégies de sécurité liées à l’utilisation du VPN. Cette rubrique est une zone clé que vous souhaitez inclure. Entrez ainsi l’invite suivante :
     
@@ -35,8 +34,7 @@ En tant que consultant principal pour Trey Research, vous êtes responsable de l
 9.  Copiez et collez le contenu de cette réponse dans le document. Placez-le juste avant la section **Risques et atténuations**, puis modifiez le contenu en fonction des besoins. Si nécessaire, ajoutez un titre à cette section intitulée **Stratégies de sécurité liées à l’utilisation d’un VPN**.
 10. Lorsque vous avez passé en revue le rapport, vous avez également identifié une zone de contenu dont la réécriture est nécessaire. Dans la section sur les **Risques et atténuations**, la première puce concerne les VPN pour particuliers et les VPN d’entreprise. Vous souhaitez qu’il n’aborde que les VPN d’entreprise. Compte tenu de la façon dont le contenu est écrit, cela ne semble toutefois pas facile à modifier. Vous décidez que Copilot réécrive le contenu pour vous.
     
-    > [!TIP]
-    > Pour que Copilot réécrive le contenu, vous devez d’abord mettre en surbrillance ledit contenu.
+    > **CONSEIL :** Pour que Copilot réécrive le contenu, vous devez d’abord mettre en surbrillance ledit contenu.
     
 11. Mettez en surbrillance le contenu dans la première puce de la section **Risques et atténuation**, puis entrez l’invite suivante :
     

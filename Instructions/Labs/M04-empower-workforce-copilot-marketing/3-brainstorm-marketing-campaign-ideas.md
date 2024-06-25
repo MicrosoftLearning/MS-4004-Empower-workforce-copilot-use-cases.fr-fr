@@ -11,7 +11,7 @@ Dans cet exercice de formation, vous utilisez Copilot dans Loop afin de trouver 
 Dans l’exercice précédent, Tailspin Toys a réalisé une analyse de marché du secteur des jouets. Sur la base de cette analyse, l’entreprise a décidé de lancer une nouvelle gamme de jouets destinés au plein air. En tant que gestionnaire du programme de marketing chez Tailspin Toys, vous êtes chargé de créer des campagnes marketing pour cette nouvelle gamme de jouets. Vous décidez d’utiliser Copilot dans Loop afin de trouver des idées pour les campagnes marketing destinées à cette nouvelle gamme de produits. Effectuez les étapes suivantes pour trouver des idées en utilisant Copilot dans Loop :
 
 1.  Dans **Microsoft 365**, sélectionnez **Loop** si l’application apparaît dans le volet de navigation de gauche. Si ce n’est pas le cas, sélectionnez **Applications** puis, dans la page **Applications**, faites défiler vers le bas pour rechercher **Loop**, puis sélectionnez-la.
-2.  Dans **Microsoft Loop**, sélectionnez **Prise en main**.
+2.  Dans **Microsoft Loop**, sélectionnez **Démarrage**.
 3.  Dans **Loop**, l’onglet **Espaces de travail** est affiché par défaut. Vous voulez créer un espace de travail pour ce projet : sélectionnez donc l’icône **+** pour créer un espace de travail.
 4.  Dans la fenêtre **Créer un espace de travail**, entrez **Outdoor toy line Marketing Campaign** (Campagne marketing pour la gamme de jouets destinée au plein air) pour le nom de votre espace de travail, puis sélectionnez le bouton **Continuer** ou **Créer** qui s’affiche (selon votre version de Loop).
 5.  Dans la fenêtre **Ajouter des fichiers à votre espace de travail** (selon votre version de Loop, cette fenêtre peut indiquer **Commutateur d’espace de travail**), sélectionnez **Créer un espace de travail**.
@@ -35,8 +35,7 @@ Dans l’exercice précédent, Tailspin Toys a réalisé une analyse de marché 
     
     **Triez les idées dans le tableau en commençant par le plus efficace et en allant vers le moins efficace**.
     
-    > [!NOTE]
-    > Recherchez l’icône **Trier** (les flèches haut et bas) qui apparaît dans la barre d’icônes au-dessus de la liste d’idées. Cette option trie simplement les idées par ordre alphabétique. Vous pouvez effectuer le tri sur le nom de chaque **Idée** ou sur le premier mot de chaque champ **Détails**. Cependant, ce tri n’est pas basé sur l’efficacité estimée des idées, ce qui est ce que vous voulez et ce que vous avez demandé dans le prompt.
+    > **REMARQUE :** Recherchez l’icône **Trier** (les flèches haut et bas) qui apparaît dans la barre d’icônes au-dessus de la liste d’idées. Cette option trie simplement les idées par ordre alphabétique. Vous pouvez effectuer le tri sur le nom de chaque **Idée** ou sur le premier mot de chaque champ **Détails**. Cependant, ce tri n’est pas basé sur l’efficacité estimée des idées, ce qui est ce que vous voulez et ce que vous avez demandé dans le prompt.
 15. Après avoir examiné les idées triées, vous décidez d’apporter une dernière modification. Vous voulez que Copilot remplace l’idée la moins efficace par un événement de campagne intitulé **Promotions saisonnières**. Vous pensez qu’il s’agit d’un choix naturel pour une nouvelle gamme de jouets avec des produits destinés au plein air. Pour cela, entrez le prompt suivant :
     
     **Remplacez la dernière idée du tableau par Promotions saisonnières**.

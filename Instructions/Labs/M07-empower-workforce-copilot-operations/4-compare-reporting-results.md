@@ -27,8 +27,7 @@ En tant que directeur des opérations chez Adatum Corporation, vous avez découv
     **Je suis Operations Manager pour Adatum Corporation. Nous envisageons de remplacer le système de chaudière actuel de notre bâtiment par un système de fournaise. Écrivez un rapport décrivant le type de systèmes de chaudière utilisés dans la plupart des bâtiments commerciaux, et incluez les considérations que je dois prendre en compte pour passer d’un système de chaudière existant à un système de chauffage, le coût moyen de transition d’un système de chaudière à un système de chauffage dans un bâtiment commercial à deux étages construit dans les années 1970, si le passage d’un système de chaudière à un système de fournaise aura un effet sur notre système de climatisation actuel, et les taux de défauts moyens pour les systèmes de chaudière et les systèmes de fournaise.**
 4.  Passez en revue le rapport généré par Copilot. Notez le niveau de détail dans chaque domaine d’intérêt. Étant donné que vous souhaitez enregistrer ce document pour l’exercice cas d’usage suivant, sélectionnez le bouton **Conserver** sur la barre d’état Copilot, puis enregistrez le document.
     
-    > [!IMPORTANT]
-    > Veillez à enregistrer le rapport depuis que vous l’utilisez dans l’exercice suivant de cas d’usage.
+    > **IMPORTANT :** Veillez à enregistrer le rapport depuis que vous l’utilisez dans l’exercice suivant de cas d’usage.
 5.  L’invite que vous avez entrée pour créer le rapport incluait cinq demandes. Vous souhaitez maintenant poser à Copilot chacune de ces cinq questions individuellement. Sélectionnez **Copilot** sur le ruban Word, qui ouvre le volet **Copilot**.
 6.  Dans le volet **Copilot**, dans le champ d’invite situé en bas du volet, entrez la question suivante, puis sélectionnez la flèche **Envoyer** :
     
