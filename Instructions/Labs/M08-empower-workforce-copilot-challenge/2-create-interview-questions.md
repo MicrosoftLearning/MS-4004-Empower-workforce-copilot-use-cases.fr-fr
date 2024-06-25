@@ -8,7 +8,6 @@ Vous découvrez que vous pouvez utiliser Copilot dans trois applications Microso
 
 Vous devez commencer par avoir Copilot dans Loop, Microsoft Copilot (Bing chat) et Copilot dans Word pour créer une série de 15 questions chacun.
 
-> [!TIP]
-> Si l’un des outils Copilot génère des commentaires supplémentaires pour aller avec chaque question, demandez-lui de s’en tenir aux questions uniquement.
+> **CONSEIL :** Si l’un des outils Copilot génère des commentaires supplémentaires pour aller avec chaque question, demandez-lui de s’en tenir aux questions uniquement.
 
 Vous devez ensuite copier et coller les 15 questions générées par chaque outil Copilot dans un document Word unique, ce qui vous donne un pool total de 45 questions. À partir de ce document, Copilot dans Word compare ces 45 questions et sélectionne les 15 premières du pool. Pour chaque question recommandée par Copilot, identifiez sa source : Copilot dans Word, Copilot dans Loop ou Microsoft Copilot (Bing). Puis, dans la liste finale des 15 questions, demandez à Copilot dans Word d’afficher le nombre total de questions générées par Copilot dans Loop, Microsoft Copilot (Bing) et Copilot dans Word.

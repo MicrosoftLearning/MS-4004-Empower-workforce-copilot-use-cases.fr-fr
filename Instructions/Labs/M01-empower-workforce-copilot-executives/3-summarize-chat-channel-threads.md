@@ -21,8 +21,7 @@ Dans le volet **Copilot**, quand vous sélectionnez l’option **Plus de prompts
      -  Faits marquants de cette conversation (Canal de Teams)
      -  Récapituler la réunion (Conversation de Teams)
 
-> [!IMPORTANT]
-> Les prompts prédéfinis affichés par Copilot peuvent varier en fonction du contenu disponible dans la conversation ou le canal sélectionné.
+> **IMPORTANT :** Les prompts prédéfinis affichés par Copilot peuvent varier en fonction du contenu disponible dans la conversation ou le canal sélectionné.
 
 Copilot dans Teams utilise les principes suivants pour déterminer les prompts à afficher pour une conversation ou un canal donné :
 
@@ -30,8 +29,7 @@ Copilot dans Teams utilise les principes suivants pour déterminer les prompts �
  -  Copilot inclut seulement les prompts liés au temps (« Faits marquants des derniers...») et les prompts non liés au temps (« Décisions/Points en suspens ») s’il y a suffisamment de contenu dans la période pour les justifier.
  -  Copilot n’affiche aucun prompt pour une conversation s’il n’y a pas eu assez de contenu au cours de la dernière journée. Dans ce cas, Copilot affiche le message suivant quand vous sélectionnez **Plus de prompts** : *Vous pourrez utiliser des prompts quand il y aura du nouveau contenu dans la conversation. En attendant, Copilot peut néanmoins toujours répondre à vos questions.*
 
-> [!NOTE]
-> Quand une conversation ou un canal n’a pas assez de contenu pour justifier l’utilisation de Copilot, l’icône Copilot n’apparaît pas quand vous sélectionnez la conversation ou le canal.
+> **REMARQUE :** Quand une conversation ou un canal n’a pas assez de contenu pour justifier l’utilisation de Copilot, l’icône Copilot n’apparaît pas quand vous sélectionnez la conversation ou le canal.
 
 #### Utiliser Copilot dans une conversation Teams
 
@@ -43,8 +41,7 @@ En tant que cadre de votre organisation, vous voulez utiliser Copilot dans les c
    ![Capture d’écran montrant une conversation dans Teams et l’icône Copilot mise en évidence.](../media/copilot-teams-icon-da01ab29.png)
     
     
-   > [!NOTE]
-   > L’icône Copilot apparaît dans une conversation un à un, une conversation de groupe et une conversation de réunion.
+   > **REMARQUE :** L’icône Copilot apparaît dans une conversation un à un, une conversation de groupe et une conversation de réunion.
 3.  En bas du volet **Copilot** qui s’affiche, sous le champ de prompt, sélectionnez **Plus de prompts**. Dans le menu déroulant qui apparaît, sélectionnez **Faits marquants des 30 derniers jours**. Si ce prompt prédéfini n’apparaît pas dans le menu déroulant, entrez le prompt suivant à la place :
     
     **Résumez cette conversation**.

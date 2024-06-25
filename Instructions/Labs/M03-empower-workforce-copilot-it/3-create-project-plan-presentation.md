@@ -26,7 +26,7 @@ En tant que directeur informatique chez Adatum Corporation, vous prévoyez d’i
 4.  Sur la page d’accueil de **Microsoft 365**, sélectionnez l’icône de **PowerPoint** dans le volet de navigation de gauche.
 5.  Dans **PowerPoint**, ouvrez une nouvelle présentation.
 6.  Sélectionnez l’option **Copilot** sur le côté droit du ruban.
-7.  Dans le volet **Copilot** à l’écran, vous pouvez choisir parmi plusieurs invites prédéfinies. Sélectionnez l’invite **Créer une présentation à partir d’un fichier**.
+7.  Dans le volet **Copilot** qui s’affiche, vous pouvez choisir parmi les différents prompts prédéfinis disponibles. Sélectionnez l’invite **Créer une présentation à partir d’un fichier**.
 8.  Dans le champ d’invite en bas du volet **Copilot**, Copilot insère automatiquement le texte suivant : **Créer une présentation à partir d’un fichier /**. La barre oblique est l’indicateur Copilot universel pour entrer le lien vers un fichier. Dans ce cas, cela entraîne Copilot à ouvrir une fenêtre **Suggestions** qui affiche les trois derniers fichiers utilisés.
      -  Si votre fichier y apparaît, sélectionnez-le et passez à l’étape suivante.
      -  Si le fichier n’en fait pas partie, sélectionnez la flèche droite (**&gt;**) dans le coin supérieur droit de la fenêtre **Suggestions** pour afficher une liste de fichiers MRU développée. Si le fichier apparaît, sélectionnez-le et passez à l’étape suivante.
@@ -53,8 +53,7 @@ En tant que directeur informatique chez Adatum Corporation, vous prévoyez d’i
          
       ![Capture d’écran montrant l’invite demandant le remplacement de l’image sur une diapositive et la réponse de Copilot.](../media/copilot-powerpoint-replace-message-2-aa694058.png)
 
- > [!TIP]
- > N’oubliez pas que Copilot est encore en développement. Certaines fonctionnalités sont donc toujours à parfaire. En guise de meilleure pratique, si Copilot ne peut effectuer votre requête, réessayez. Et cela ne fonctionne toujours pas, essayez de reformuler votre requête ou de le fractionner.
+ > **CONSEIL :** N’oubliez pas que Copilot est encore en développement. Certaines fonctionnalités sont donc toujours à parfaire. En guise de meilleure pratique, si Copilot ne peut effectuer votre requête, réessayez. Et cela ne fonctionne toujours pas, essayez de reformuler votre requête ou de le fractionner.
 
 16. Même si Copilot a fonctionné et remplacé votre image, supposons pour cet exercice d’entraînement qu’il ne l’a pas fait. Dans ce cas, demandons à Copilot de ne pas simplement remplacer l’image, mais de supprimer l’ancienne diapositive et de la remplacer par une nouvelle diapositive contenant une image différente. Par conséquent, entrez l’invite suivante :
     
@@ -70,8 +69,7 @@ En tant que directeur informatique chez Adatum Corporation, vous prévoyez d’i
       -  A-t-il plutôt supprimé l’ancienne diapositive, sans créé une ? Si tel est le cas, demandez-lui de créer une diapositive Q&A avec une image.
       -  N’a-t-il plutôt rien fait du tout ? Si tel est le cas, essayez de scinder cette dernière invite en deux : commencez par lui demander de supprimer la diapositive Q&A, puis envoyez une deuxième invite lui demandant de créer une diapositive Q&A avec une image.
     
- > [!TIP]
- > Si Copilot n’a pas effectué la requête ou s’il a retourné une erreur, ce scénario est un bon exemple invitant à conserver les invites aussi simples que possible. Suivez la suggestion de Copilot en reformulant votre requête. Il est préférable de demander à Copilot d’effectuer une tâche à la fois (par exemple la suppression de l’ancienne diapositive), puis envoyer une deuxième requête pour ajouter une nouvelle diapositive avec une image (dans notre test, Copilot a toujours utilisé une image différente avec chaque requête).
+ > **CONSEIL :** Si Copilot n’a pas effectué la requête ou s’il a retourné une erreur, ce scénario est un bon exemple invitant à conserver les invites aussi simples que possible. Suivez la suggestion de Copilot en reformulant votre requête. Il est préférable de demander à Copilot d’effectuer une tâche à la fois (par exemple la suppression de l’ancienne diapositive), puis envoyer une deuxième requête pour ajouter une nouvelle diapositive avec une image (dans notre test, Copilot a toujours utilisé une image différente avec chaque requête).
 18. Quel que soit le résultat des dernières étapes pour traiter la diapositive Q&A, vous décidez d’évoluer et d’essayer une dernière chose. En examinant la présentation, vous décidez de modifier le thème de la présentation en fonction de la nature technique du sujet. Entrez l’invite suivante :
     
  **Remplacez le thème de cette présentation par quelque chose de plus technique.**

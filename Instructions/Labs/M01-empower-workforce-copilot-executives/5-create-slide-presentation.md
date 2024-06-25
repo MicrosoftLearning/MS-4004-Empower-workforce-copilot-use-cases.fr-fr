@@ -23,8 +23,7 @@ Dans l’exercice précédent, vous avez accédé au compte de résultats de l�
     ![Capture d’écran montrant le menu Partager et l’option Copier le lien mise en évidence.](../media/share-menu-with-copy-link-9fd1c60a.png)
     
     
-     > [!TIP]
-     > Copilot peut parfois avoir des difficultés à utiliser l’URL dans votre barre d’adresses. Copiez le lien à partir de la barre d’état **Partager** pour obtenir des résultats optimaux.
+     > **CONSEIL :** Copilot peut parfois avoir des difficultés à utiliser l’URL dans votre barre d’adresses. Copiez le lien à partir de la barre d’état **Partager** pour obtenir des résultats optimaux.
 
 5.  Fermez la boîte de dialogue **Lien copié** qui s’affiche dans Word.
 6.  Fermez cet onglet de document dans votre navigateur Microsoft Edge. Cela vous fait revenir à l’onglet **Word \| Microsoft 365**.
