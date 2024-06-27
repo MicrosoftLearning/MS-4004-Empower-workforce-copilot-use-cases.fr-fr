@@ -17,7 +17,7 @@ Pour référencer le fichier dans Copilot, cet exercice localise le fichier à p
 
 Procédez comme suit pour créer votre plan de projet à l’aide de Microsoft Copilot dans Bing :
 
-1.  Sélectionnez le lien suivant pour télécharger une copie du [rapport de spécification de produit Contoso CipherGuard](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20Product%20Specification.docx).
+1.  Sélectionnez le lien suivant pour télécharger une copie du [rapport de spécification de produit Contoso CipherGuard](https://go.microsoft.com/fwlink/?linkid=2269123).
 2.  Une fois le téléchargement terminé, ouvrez l’**explorateur de fichiers** et déplacez le fichier de votre dossier **Téléchargements** vers un dossier dans votre compte OneDrive.
 3.  Dans cet exercice, vous accédez aux documents depuis la liste de fichiers Derniers utilisés. Pour que les fichiers apparaissent dans la liste Derniers utilisés, ouvrez le document, puis fermez-le.
 4.  Dans **Microsoft Edge**, naviguez vers Microsoft Bing en entrant l’URL suivante : **https://bing.com**

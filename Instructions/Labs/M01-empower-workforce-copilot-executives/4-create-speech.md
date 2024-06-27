@@ -27,7 +27,7 @@ Pour référencer le fichier dans Copilot, cet exercice localise le fichier dans
 
 Effectuez les étapes suivantes pour générer votre discours en utilisant Copilot dans Word :
 
-1.  Sélectionnez le lien suivant pour télécharger une copie du [Compte de résultats 2023 de Fabrikam](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx).
+1.  Sélectionnez le lien suivant pour télécharger une copie du [Compte de résultats 2023 de Fabrikam](https://go.microsoft.com/fwlink/?linkid=2268823).
 2.  Une fois le téléchargement terminé, ouvrez l’**explorateur de fichiers** et déplacez le fichier de votre dossier **Téléchargements** vers un dossier dans votre compte OneDrive.
 3.  Dans cet exercice, vous accédez aux documents dans la liste des fichiers utilisés récemment. Pour que les fichiers apparaissent dans la liste, ouvrez le document, puis fermez-le.
 4.  Dans **Microsoft 365**, ouvrez un nouveau document **Microsoft Word** vide en entrant l’URL suivante : **Word.new** 

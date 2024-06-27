@@ -19,7 +19,7 @@ En tant que directeur financier de Fabrikam, vous voulez analyser l’efficacit�
 
 Procédez comme suit pour utiliser Copilot dans Excel afin d’analyser les données qui apparaissent dans la feuille de calcul des campagnes marketing de T1 (Q1) :
 
-1.  Sélectionnez le lien suivant pour télécharger la feuille de calcul [Fabrikam Q1 marketing campaigns](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaigns.xlsx) (Campagnes marketing T1 de Fabrikam).
+1.  Sélectionnez le lien suivant pour télécharger la feuille de calcul [Fabrikam Q1 marketing campaigns](https://go.microsoft.com/fwlink/?linkid=2269124) (Campagnes marketing T1 de Fabrikam).
 2.  Une fois le téléchargement terminé, déplacez le fichier dans votre compte OneDrive, puis ouvrez et fermez le fichier pour qu’il apparaisse dans votre liste de fichiers les plus récemment utilisés.
 3.  Si vous avez un onglet Microsoft 365 ouvert dans votre navigateur Microsoft Edge, sélectionnez-le maintenant ; sinon, ouvrez un nouvel onglet et entrez l’URL suivante : **https://www.office.com**
 4.  Dans la page d’accueil de **Microsoft 365**, sélectionnez l’icône **Excel** dans le volet de navigation à gauche.

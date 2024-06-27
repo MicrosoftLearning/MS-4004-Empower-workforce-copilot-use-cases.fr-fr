@@ -14,7 +14,7 @@ En tant que directeur financier d’Adatum Corporation, un fabricant américain 
 
 Pour effectuer cette tâche, vous allez ouvrir un document Word préparé par votre équipe comptable qui fournit un résumé financier des performances annuelles de l’entreprise sur les cinq dernières années. Vous allez ensuite utiliser Copilot dans Word pour résumer les performances de l’entreprise pendant cette période.
 
-1.  Sélectionnez le lien suivant pour télécharger le fichier [Adatum 5 Year Financial Results](https://edxinteractivepage.blob.core.windows.net/ms-4004/Adatum%205%20Year%20Financial%20Results.docx).
+1.  Sélectionnez le lien suivant pour télécharger le fichier [Adatum 5 Year Financial Results](https://go.microsoft.com/fwlink/?linkid=2268923).
 2.  Une fois le téléchargement terminé, ouvrez l’**explorateur de fichiers** et déplacez le fichier de votre dossier **Téléchargements** vers un dossier dans votre compte OneDrive.
 3.  Dans **Microsoft Word**, ouvrez le fichier **Adatum 5 Year Financial Results.docx** que vous avez téléchargé et déplacé vers votre compte OneDrive.
 4.  Dans le ruban **Microsoft Word**, sélectionnez **Copilot**.
