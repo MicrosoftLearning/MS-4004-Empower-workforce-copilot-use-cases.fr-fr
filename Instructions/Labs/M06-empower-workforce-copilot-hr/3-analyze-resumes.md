@@ -13,10 +13,10 @@ En tant que responsable RH chez Graphic Design Institute, vous avez commencé le
 À la fin de l’exercice précédent, vous avez enregistré le fichier de description du poste que vous avez créé. Vous avez été invité à enregistrer le fichier sous le nom de **Graphic Design Institute - Job descriptions.docx**. Si vous l’avez enregistré sous un autre nom de fichier, utilisez celui-ci pour localiser le fichier dans cet exercice. Dans cet exercice, effectuez les étapes suivantes pour que Copilot dans Word compare les quatre CV que vous avez reçus à ce fichier de description de poste afin de déterminer quel candidat est le plus qualifié :
 
 1.  Sélectionnez les liens suivants pour télécharger les CV que vous avez reçus jusqu’à présent :
-     -  [CV – Patti Fernandez](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Patti%20Fernandez.docx)
-     -  [CV – Nestor Wilke](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Nestor%20Wilke.docx)
-     -  [CV – Holly Dickson](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Holly%20Dickson.docx)
-     -  [CV – Alex Wilber](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Alex%20Wilber.docx)
+     -  [CV – Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
+     -  [CV – Nestor Wilke](https://go.microsoft.com/fwlink/?linkid=2268930)
+     -  [CV – Holly Dickson](https://go.microsoft.com/fwlink/?linkid=2268828)
+     -  [CV – Alex Wilber](https://go.microsoft.com/fwlink/?linkid=2269127)
 2.  Une fois les téléchargements terminés, ouvrez l’**Explorateur de fichiers** et copiez les fichiers depuis votre dossier **Téléchargements** vers un dossier de votre compte OneDrive.
 3.  Dans cet exercice, vous accédez aux documents depuis la liste de fichiers Derniers utilisés. Pour que les fichiers apparaissent dans la liste Derniers utilisés, ouvrez chaque document, puis fermez-le. Ouvrez et fermez chacun des quatre fichiers de CV dans votre compte OneDrive.
 4.  Dans **Microsoft 365**, ouvrez **Microsoft Word**, puis ouvrez un nouveau document vierge.

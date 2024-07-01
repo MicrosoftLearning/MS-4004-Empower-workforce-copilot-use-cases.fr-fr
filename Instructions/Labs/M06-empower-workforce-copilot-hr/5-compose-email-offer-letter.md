@@ -19,7 +19,7 @@ En tant que responsable RH de l’Institut de conception graphique, vous avez te
 
 Vous souhaitez que l’e-mail soit d’un ton formel et professionnel, qu’il doit inclure l’intitulé du poste, la date de prise de fonction, le salaire et les avantages sociaux (qui apparaissent dans un fichier que vous devez télécharger). L’e-mail doit également mentionner que l’offre est subordonnée à la réussite d’un contrôle d’arrière-plan et à toute autre vérification préalable à l’emploi qui peut être nécessaire. En tant que lettre d’offre par e-mail, elle doit également inclure une copie jointe de la lettre d’offre pour que le candidat signe et retourne.
 
-1.  Sélectionnez le lien suivant pour télécharger le document [Graphic Design Institute - Employee Benefits](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Employee%20benefits.docx).
+1.  Sélectionnez le lien suivant pour télécharger le document [Graphic Design Institute - Employee Benefits](https://go.microsoft.com/fwlink/?linkid=2268825).
 2.  Une fois le fichier téléchargé, déplacez-le vers votre compte OneDrive, puis ouvrez et fermez le fichier pour l’obtenir dans votre liste de fichiers les plus récemment utilisés (MRU).
 3.  Si vous avez un onglet Microsoft 365 ouvert dans votre navigateur Microsoft Edge, sélectionnez-le maintenant ; sinon, ouvrez un nouvel onglet et entrez l’URL suivante : **https://www.office.com**
 4.  Dans **Microsoft 365**, ouvrez **Outlook**.

@@ -18,9 +18,9 @@ Pour accéder aux accords avec le fournisseur, vous devez d’abord télécharge
 Effectuez les étapes suivantes pour générer votre texte en utilisant Copilot dans Word :
 
 1.  Sélectionnez les liens suivants pour télécharger les trois accords avec le fournisseur :
-     -  [Accord avec le fournisseur Contoso](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Supplier%20Agreement.docx)
-     -  [Accord avec le fournisseur Tailwind Traders](https://edxinteractivepage.blob.core.windows.net/ms-4004/Tailwind%20Traders%20Supplier%20Agreement.docx)
-     -  [Accord avec le fournisseur Wide World Importers](https://edxinteractivepage.blob.core.windows.net/ms-4004/Wide%20World%20Importers%20Supplier%20Agreement.docx)
+     -  [Accord avec le fournisseur Contoso](https://go.microsoft.com/fwlink/?linkid=2268925)
+     -  [Accord avec le fournisseur Tailwind Traders](https://go.microsoft.com/fwlink/?linkid=2269128)
+     -  [Accord avec le fournisseur Wide World Importers](https://go.microsoft.com/fwlink/?linkid=2269129)
 2.  Une fois les téléchargements terminés, ouvrez l’**Explorateur de fichiers** et copiez les fichiers depuis votre dossier **Téléchargements** vers un dossier de votre compte OneDrive.
 3.  Dans cet exercice, vous accédez aux documents depuis la liste de fichiers Derniers utilisés. Pour que les fichiers apparaissent dans la liste Derniers utilisés, ouvrez chaque document, puis fermez-le. Ouvrez et fermez chacun des trois fichiers de votre compte OneDrive.
 4.  Dans **Microsoft 365**, ouvrez **Microsoft Word**, puis ouvrez un nouveau document vierge.

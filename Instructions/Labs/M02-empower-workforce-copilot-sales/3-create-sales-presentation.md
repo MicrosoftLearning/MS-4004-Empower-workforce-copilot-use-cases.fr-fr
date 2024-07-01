@@ -11,14 +11,14 @@ De plus, Copilot dans PowerPoint peut générer de nouvelles idées de conceptio
 
 Vous êtes directeur des ventes et du marketing chez Contoso, Ltd. et vous devez fournir à votre équipe Ventes une présentation du produit phare de l’entreprise, la boisson Contoso Protein Plus. La présentation doit analyser le rapport des tendances du marché que votre équipe Marketing a créé pour le produit. Effectuez les étapes suivantes pour que Copilot dans PowerPoint crée votre diaporama sur la base des informations du fichier **Market Trend Report - Protein Shake.docx**, que vous téléchargez au début de cet exercice.
 
-1.  Sélectionnez le lien suivant pour télécharger une copie de [Market Trend Report - Protein Shake](https://edxinteractivepage.blob.core.windows.net/ms-4004/Market%20Trend%20Report-%20Protein%20shake.docx).
+1.  Sélectionnez le lien suivant pour télécharger une copie de [Market Trend Report - Protein Shake](https://go.microsoft.com/fwlink/?linkid=2268827).
 2.  Une fois le téléchargement terminé, ouvrez l’**Explorateur de fichiers** et déplacez le fichier de votre dossier **Téléchargements** vers un dossier dans votre compte OneDrive.
 3.  Dans cet exercice, vous accédez au document depuis la liste de fichiers Derniers utilisés. Pour que le fichier apparaisse dans la liste Derniers utilisés, ouvrez le document et fermez-le.
 4.  Si un onglet **Microsoft 365** est ouvert dans votre navigateur **Microsoft Edge**, sélectionnez-le. Sinon, ouvrez un nouvel onglet et entrez l’URL suivante : **https://www.office.com**
 5.  Dans le volet de navigation **Microsoft 365**, sélectionnez **PowerPoint**.
 6.  Dans **PowerPoint**, ouvrez une nouvelle présentation vide.
 7.  Sélectionnez l’option **Copilot** sur le côté droit du ruban.
-8.  Dans le volet **Copilot** qui s’affiche, vous pouvez choisir parmi plusieurs prompts prédéfinis. Sélectionnez le prompt **Créer une présentation à partir d’un fichier**.
+8.  Dans le volet **Copilot** qui s’affiche, vous pouvez choisir parmi les différents prompts prédéfinis disponibles. Sélectionnez le prompt **Créer une présentation à partir d’un fichier**.
 9.  Au-dessus du champ de prompt situé en bas du volet **Copilot**, une fenêtre **Suggestions** apparaît avec les trois derniers fichiers utilisés. Si le fichier **Market Trend Report - Protein Shake.docx** apparaît dans la liste Derniers utilisés, sélectionnez-le. Sinon, ouvrez le fichier dans **Word**, sélectionnez le bouton **Partager** au-dessus du ruban, sélectionnez l’option **Copier le lien** dans le menu déroulant, puis dans ce champ de prompt, dans le volet **Copilot** dans **PowerPoint**, collez le lien après la barre oblique (**Créer une présentation à partir d’un fichier /**).
 10. Sélectionnez l’icône **Envoyer**.
 11. Ce prompt déclenche la création par Copilot d’un diaporama basé sur le document. Ce faisant, il affiche en premier le plan de la présentation. Ensuite, il affiche une fenêtre distincte montrant une liste à puces de certaines des modifications apportées à la présentation en fonction du document.

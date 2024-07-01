@@ -10,11 +10,11 @@ Copilot dans Excel est un outil inestimable dans la boîte à outils du professi
  -  **Générer des suggestions de colonne de formule pour les calculs complexes** : Copilot dans Excel peut aider les professionnels du marketing à générer des suggestions de colonne de formule pour les calculs complexes, comme le calcul du retour sur investissement (ROI) de leurs campagnes marketing. Par exemple, un professionnel du marketing peut utiliser Copilot pour calculer le ROI de sa campagne marketing par e-mail en divisant les revenus générés par la campagne par le coût de la campagne.
  -  **Aider à analyser, comprendre et visualiser les données** : Copilot dans Excel peut aider les professionnels du marketing à analyser, comprendre et visualiser leurs données grâce à la puissance de l’IA. Par exemple, un professionnel du marketing peut utiliser Copilot pour identifier les tendances de ses données de vente et utiliser ces insights pour prendre des décisions éclairées sur ses stratégies marketing.
 
-Quand vous utilisez Copilot dans Excel, vous devez avoir un tableau Excel avec des données dans une feuille de calcul. Vous pouvez transformer rapidement une plage de cellules en tableau Excel en suivant ces étapes :
+Quand vous utilisez Copilot dans Excel, vous devez avoir un tableau Excel avec des données dans une feuille de calcul. Vous pouvez transformer rapidement une plage de cellules en un tableau Excel en procédant comme suit :
 
 1.  Sélectionnez la cellule ou la plage de données.
 2.  Sélectionnez **Accueil** &gt; ** Mettre sous forme de tableau**.
-3.  Dans la boîte de dialogue **Mettre sous forme de tableau**, cochez la case à côté de **Mon tableau a des en-têtes** si vous voulez que la première ligne de la plage soit la ligne d’en-tête.
+3.  Dans la boîte de dialogue **Mettre sous forme de tableau**, cochez la case en regard de **Mon tableau comporte des en-têtes** si vous voulez que la première ligne de la plage soit la ligne des en-têtes.
 4.  Cliquez sur **OK**.
 
 Dans cet exercice, vous utilisez Copilot dans Excel pour analyser une feuille de calcul de tendance du marché qui déjà un tableau Excel défini. Cet exercice examine un grand nombre de fonctions et de prompts prédéfinis de Copilot.<br>
@@ -25,7 +25,7 @@ En tant que directeur du marketing chez Contoso Beverage, une division de Contos
 
 Effectuez les étapes suivantes pour analyser la feuille de calcul de tendance du marché avec Copilot dans Excel :
 
-1.  Si vous avez téléchargé la feuille de calcul [Contoso Chai Tea market trends 2023](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.xlsx) dans l’exercice précédent, passez à l’étape suivante. Sinon, sélectionnez le lien pour télécharger le fichier, déplacez le fichier dans votre compte OneDrive, puis ouvrez et fermez-le pour qu’il s’affiche dans votre liste des derniers fichiers utilisés.
+1.  Si vous avez téléchargé la feuille de calcul [Contoso Chai Tea market trends 2023](https://go.microsoft.com/fwlink/?linkid=2268822) dans l’exercice précédent, passez à l’étape suivante. Sinon, sélectionnez le lien pour télécharger le fichier, déplacez le fichier dans votre compte OneDrive, puis ouvrez et fermez-le pour qu’il s’affiche dans votre liste des derniers fichiers utilisés.
 2.  Si vous avez un onglet Microsoft 365 ouvert dans votre navigateur Microsoft Edge, sélectionnez-le maintenant, ou ouvrez un nouvel onglet et entrez l’URL suivante : **https://www.office.com**
 3.  Dans la page d’accueil de **Microsoft 365**, sélectionnez l’icône **Excel** dans le volet de navigation à gauche.
 4.  Dans **Excel**, dans la page **Fichier**, sélectionnez **Contoso Chai Tea market trends 2023.xlsx** dans la liste des fichiers.
