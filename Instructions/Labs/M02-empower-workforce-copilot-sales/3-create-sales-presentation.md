@@ -49,7 +49,7 @@ Vous êtes directeur des ventes et du marketing chez Contoso, Ltd. et vous devez
      -  Si Copilot a effectué cette tâche, entrez un prompt qui lui demande de générer la réponse à chacune des questions suggérées et d’ajouter les réponses à leurs questions respectives dans les notes du présentateur de la diapositive Q/R. Regardez si Copilot peut également effectuer cette tâche.
      -  Si Copilot n’a pas pu effectuer cette tâche, il montre juste qu’il s’agit toujours d’un travail en cours. Même s’il ne peut pas faire tout ce que vous voulez actuellement, continuez à vérifier s’il finit par en être capable. Ce scénario est un autre exemple de la bonne pratique que vous avez apprise lors de la formation précédente : **Comprendre les limites de Copilot.**
         
-        Si Copilot n’a pas pu ajouter de questions à la diapositive Q/R, essayez cette solution de contournement. Entrez le prompt suivant qui lui demande de générer une liste de questions :
+    -    Si Copilot n’a pas pu ajouter de questions à la diapositive Q/R, essayez cette solution de contournement. Entrez le prompt suivant qui lui demande de générer une liste de questions :
         
         **Quel genre de questions penses-tu que les participants peuvent poser pendant la session de Q/R** ?
         
