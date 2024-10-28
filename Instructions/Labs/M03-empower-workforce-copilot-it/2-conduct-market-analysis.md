@@ -27,11 +27,12 @@ En tant que directrice de la recherche de marché chez Tailspin Toys, vous devez
 10. L’analyse du marché et le plan d’affaires générés par Copilot pour vous étaient basés sur un style de conversation **Plus équilibré**. Ce style est idéal pour les utilisateurs qui veulent un équilibre entre précision et créativité. Ce style fournit des réponses plus longues et plus descriptives que le style **Plus précis**. Quant à vos rapports, vous vouliez des réponses plus longues et plus descriptives, car vous avez estimé que votre équipe de haute direction s’attend à ce niveau de détail. Toutefois, vous vous demandez à quoi les rapports ressembleraient avec le style **Plus créatif**. Ce style fournit des réponses plus imaginatives et plus créatives. Examinons en quoi les réponses de Copilot différeraient avec le style **Plus créatif**.
     
     Ouvrez un nouvel onglet dans votre navigateur **Microsoft Edge** et entrez l’URL suivante : **https://Microsoft.com/Copilot**
+11. Dans l’**application Microsoft 365**, sélectionnez **Copilot** pour ouvrir Business Chat.
 12. Sur la page **Copilot**, vous devez toujours être en mode **Web**, mais cette fois, vous décidez d’essayer le style de conversation **Plus créatif**. Répétez les étapes 4 à 9. Copiez et Collez dans chaque prompt. Portez une attention particulière au ton que Copilot utilise lors de la réponse à chaque prompt. Notez également en quoi sa réponse diffère de sa réponse correspondante basée sur le style de conversation **Plus équilibré**.
 
 ### Exercice 2 - Exporter une réponse Copilot
 
-Lorsque vous utilisez Microsoft 365 Copilot dans Business Chat pour rechercher différentes choses ou pour répondre à différentes questions, il est possible que vous trouviez une réponse si excellente que vous souhaitez l’exporter afin de l’enregistrer comme référence pour plus tard. Cet exercice se penche sur ce processus d’exportation.
+Lorsque vous utilisez Microsoft 365 Copilot dans Business Chat pour rechercher différentes choses ou pour répondre à différentes questions, il est possible que vous trouviez une réponse si excellente que vous souhaitez l’exporter afin de l’enregistrer comme référence pour plus tard. Cet exercice se penche sur ce processus d’exportation.
 
 Lorsque vous sélectionnez l’icône **Exporter** en bas d’une réponse de prompt, Copilot affiche un menu déroulant qui vous permet de sélectionner le type de fichier que vous souhaitez utiliser pour le processus d’exportation. La façon dont Copilot gère une réponse exportée dépend du type de fichier que vous sélectionnez. Les trois choix possibles incluent :
 
