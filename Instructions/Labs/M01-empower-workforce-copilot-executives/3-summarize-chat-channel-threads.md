@@ -1,4 +1,4 @@
-# Résumer les fils de conversation et de canal à l’aide de Copilot dans Teams
+# Résumer les fils de conversation et de canal à l’aide de Microsoft 365 Copilot dans Teams
 ---
 La maîtrise de Copilot pour Teams est une compétence essentielle pour les cadres qui cherchent à faciliter la collaboration et à obtenir des résultats concrets au sein de leurs équipes. Dans un monde où la communication se fait à un rythme très rapide, passer au crible les conversations et les fils de discussion sur les différents canaux pour en inférer des actions clés est une tâche qui demande beaucoup de temps. Copilot pour Teams révolutionne ce processus en analysant avec intelligence les conversations et en générant une liste concise des actions.
 
@@ -6,7 +6,7 @@ Les cadres et dirigeants qui exploitent cette capacité gagnent non seulement un
 
 ### Exercice
 
-Quand Copilot pour Teams est utilisé pour examiner les détails d’une conversation ou d’un canal spécifique, il peut fournir une liste de prompts prédéfinis et couramment utilisés, parmi lesquels vous pouvez alors choisir. Choisir un prompt dans cette liste vous évite de devoir l’entrer manuellement. Il fournit aussi des suggestions sur d’autres prompts que vous pouvez utiliser quand vous travaillez dans une conversation ou un canal.
+Lorsque vous utilisez Microsoft 365 Copilot pour Teams pour examiner les détails d’une conversation ou d’un canal spécifique, il peut fournir une liste de prompts prédéfinis et couramment utilisés, parmi lesquels vous pouvez alors choisir. Choisir un prompt dans cette liste vous évite de devoir l’entrer manuellement. Il fournit aussi des suggestions sur d’autres prompts que vous pouvez utiliser quand vous travaillez dans une conversation ou un canal.
 
 Dans le volet **Copilot**, quand vous sélectionnez l’option **Plus de prompts**, Copilot affiche un menu déroulant contenant les prompts prédéfinis. Deux types de prompts prédéfinis sont disponibles :
 
@@ -23,17 +23,17 @@ Dans le volet **Copilot**, quand vous sélectionnez l’option **Plus de prompts
 
 > **IMPORTANT :** Les prompts prédéfinis affichés par Copilot peuvent varier en fonction du contenu disponible dans la conversation ou le canal sélectionné.
 
-Copilot dans Teams utilise les principes suivants pour déterminer les prompts à afficher pour une conversation ou un canal donné :
+Microsoft 365 Copilot pour Teams utilise les principes suivants pour déterminer les prompts à afficher pour une conversation ou un canal donné :
 
- -  Copilot inclut le prompt « Récapituler la réunion » pendant 24 heures après la mise à disposition de la transcription de la réunion dans la conversation.
+ -  Microsoft 365 Copilot inclut le prompt « Récapituler la réunion » pendant 24 heures après la mise à disposition d’une transcription de réunion dans la conversation.
  -  Copilot inclut seulement les prompts liés au temps (« Faits marquants des derniers...») et les prompts non liés au temps (« Décisions/Points en suspens ») s’il y a suffisamment de contenu dans la période pour les justifier.
  -  Copilot n’affiche aucun prompt pour une conversation s’il n’y a pas eu assez de contenu au cours de la dernière journée. Dans ce cas, Copilot affiche le message suivant quand vous sélectionnez **Plus de prompts** : *Vous pourrez utiliser des prompts quand il y aura du nouveau contenu dans la conversation. En attendant, Copilot peut néanmoins toujours répondre à vos questions.*
 
 > **REMARQUE :** Quand une conversation ou un canal n’a pas assez de contenu pour justifier l’utilisation de Copilot, l’icône Copilot n’apparaît pas quand vous sélectionnez la conversation ou le canal.
 
-#### Utiliser Copilot dans une conversation Teams
+#### Utiliser Microsoft 365 Copilot dans une conversation Teams
 
-En tant que cadre ou dirigeant de votre organisation, vous voulez utiliser Copilot dans les conversations et les canaux de Microsoft Teams pour être rapidement au courant des conversations. Dans cet exercice, vous voulez que Copilot résume les points clés des 30 derniers jours pour une conversation spécifique. Vous commencez par utiliser un des prompts prédéfinis de Copilot pour recueillir ces informations. À partir de là, vous tapez une série de prompts pour approfondir les résultats.
+En tant que cadre ou dirigeant de votre organisation, vous souhaitez utiliser Microsoft 365 Copilot dans les conversations et les canaux de Microsoft Teams pour être rapidement au courant des conversations. Dans cet exercice, vous voulez que Copilot résume les points clés des 30 derniers jours pour une conversation spécifique. Vous commencez par utiliser un des prompts prédéfinis de Copilot pour recueillir ces informations. À partir de là, vous tapez une série de prompts pour approfondir les résultats.
 
 1.  Sélectionnez **Conversation** dans la barre de navigation sur le côté gauche de **Teams**, puis sélectionnez une conversation qui vous intéresse. Pour cette première tâche, sélectionnez une conversation dont vous savez qu’elle s’est étendue sur plusieurs jours, peut-être une conversation correspondant à une réunion récurrente.
 
@@ -48,7 +48,7 @@ En tant que cadre ou dirigeant de votre organisation, vous voulez utiliser Copil
     
     **Résumez cette conversation**.
 
-4.  Dans la réponse de Copilot, notez que Copilot inclut un numéro de note de bas de page à la fin de chaque affirmation. Chaque note de bas de page fournit un lien direct vers la déclaration mise en évidence. Sélectionnez une des notes de bas de page pour un point mis en évidence. Quand vous faites cela, notez que Copilot fait défiler directement jusqu’à ce message dans le fil de la conversation. Cette fonction vous permet d’accéder rapidement à un fait marquant spécifique sans avoir à parcourir manuellement le fil de la conversation pour le trouver. Répétez cette étape pour quelques-uns des points mis en évidence afin de vous rendre compte de l’intérêt de cette fonction.
+4.  Dans la réponse de Copilot, notez que Microsoft 365 Copilot inclut un numéro de note de bas de page à la fin de chaque déclaration. Chaque note de bas de page fournit un lien direct vers la déclaration mise en évidence. Sélectionnez une des notes de bas de page pour un point mis en évidence. Quand vous faites cela, notez que Copilot fait défiler directement jusqu’à ce message dans le fil de la conversation. Cette fonction vous permet d’accéder rapidement à un fait marquant spécifique sans avoir à parcourir manuellement le fil de la conversation pour le trouver. Répétez cette étape pour quelques-uns des points mis en évidence afin de vous rendre compte de l’intérêt de cette fonction.
 
 5.  Vous pouvez être souvent intéressé par ce qu’une certaine personne a dit dans un fil de conversation. Entrez le prompt suivant (remplacez "nom de la personne" par le nom de la personne), puis sélectionnez l’icône **Envoyer** :
     
@@ -66,7 +66,7 @@ En tant que cadre ou dirigeant de votre organisation, vous voulez utiliser Copil
 
 11. Passez en revue les décisions qui ont été prises. Sélectionnez une note de bas de page pour un point particulier afin d’accéder directement à ce point en suspens.
 
-12. Vous voulez maintenant utiliser Copilot dans Conversation Microsoft Teams pour avoir rapidement des informations sur une conversation particulière. Pour cela, vous prévoyez d’utiliser un des prompts prédéfinis de Copilot pour faire un récapitulatif de la réunion. Avec ces informations en main, vous prévoyez d’entrer une série de prompts pour approfondir les résultats. Pour commencer, recherchez un fil de conversation particulier qui vous intéresse, puis sélectionnez la conversation pour l’ouvrir.
+12. Vous souhaitez maintenant utiliser Microsoft 365 Copilot dans les conversations Microsoft Teams pour obtenir rapidement des informations sur une conversation particulière. Pour cela, vous prévoyez d’utiliser un des prompts prédéfinis de Copilot pour faire un récapitulatif de la réunion. Avec ces informations en main, vous prévoyez d’entrer une série de prompts pour approfondir les résultats. Pour commencer, recherchez un fil de conversation particulier qui vous intéresse, puis sélectionnez la conversation pour l’ouvrir.
 
 13. Le fil de conversation étant ouvert, sélectionnez l’icône **Ouvrir Copilot** dans le coin supérieur droit de la conversation.
 
@@ -80,14 +80,14 @@ En tant que cadre ou dirigeant de votre organisation, vous voulez utiliser Copil
 
 17. Comparez les résultats que vous avez obtenus avec le prompt prédéfini **Récapituler la réunion** et les résultats obtenus avec le prompt non prédéfini **Résumer la réunion**. Notez les différences générées dans chaque réponse.
 
-18. Dans la précédente conversation sur laquelle vous avez travaillé, vous avez sélectionné les prompts prédéfinis qui demandaient à Copilot dans Teams **« Quelles décisions ont été prises ? »** et **Quels sont les points en suspens ?**. Au lieu de soumettre à nouveau ces mêmes prompts prédéfinis, essayons quelque chose de différent. Cette fois, entrez le prompt suivant, puis sélectionnez l’icône **Envoyer** :
+18. Dans la précédente conversation sur laquelle vous avez travaillé, vous avez sélectionné les prompts prédéfinis qui demandaient à Microsoft 365 Copilot pour Teams **« Quelles décisions ont été prises ? »** et **Quels sont les points en suspens ?**. Au lieu de soumettre à nouveau ces mêmes prompts prédéfinis, essayons quelque chose de différent. Cette fois, entrez le prompt suivant, puis sélectionnez l’icône **Envoyer** :
     
 **Quelqu’un a-t-il semblé contrarié lors de la réunion ?**
 19. Notez la réponse de Copilot. Gardez cette réponse à l’esprit quand vous rédigerez des prompts à l’avenir. Copilot est un outil d’IA et à ce titre, ses capacités ont certaines limitations.
 
-#### Utiliser Copilot dans un canal Teams
+#### Utiliser Microsoft 365 Copilot dans un canal Teams
 
-Copilot dans un canal Teams fonctionne de façon similaire à Copilot dans une conversation Teams.
+Microsoft 365 Copilot dans un canal Teams fonctionne de façon similaire à Microsoft 365 Copilot dans une conversation Teams.
 
 1.  Sélectionnez **Teams** dans la barre de navigation à gauche de **Teams**, puis sélectionnez un canal spécifique au sein d’une équipe.
 

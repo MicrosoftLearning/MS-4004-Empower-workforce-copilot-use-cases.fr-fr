@@ -1,15 +1,15 @@
 
-# Générer un rapport d’étude du marché à l’aide de Copilot in Loop
+# Générer un rapport d’étude du marché à l’aide de Microsoft 365 Copilot in Loop
 ---
 Microsoft Loop est conçu pour la collaboration moderne. Il permet aux professionnels des ventes de créer, partager et travailler conjointement sur du contenu avec leurs équipes en temps réel. Loop repose sur Microsoft 365 et s’intègre à d’autres applications Microsoft telles que Word, Excel et Teams.
 
-Microsoft Copilot dans Loop est un assistant d’IA qui peut vous aider dans des séances de brainstorming, dans la rédaction de contenu et plus encore. Il peut améliorer la productivité dans différentes applications en effectuant des tâches telles que rédiger des textes, créer des tableaux, générer du code pour des projets techniques, et même répondre rapidement à des questions.
+Microsoft 365 Copilot pour Loop est un assistant IA qui peut vous aider à faire du brainstorming, de la rédaction de contenu et plus encore. Il peut améliorer la productivité dans différentes applications en effectuant des tâches telles que rédiger des textes, créer des tableaux, générer du code pour des projets techniques, et même répondre rapidement à des questions.
 
-Dans cet exercice de formation, vous utilisez Copilot dans Loop afin de rechercher un nouveau marché potentiel pour les produits de votre entreprise et créer un rapport de recherche de marché qui décrit ce qui a été trouvé. Vous lui demandez ensuite de changer le format du rapport en mettant le contenu dans un tableau. Vous lui demandez également de faire une dernière recommandation pour savoir si votre entreprise devrait se placer sur ce marché.
+Dans cet exercice de formation, vous allez utiliser Microsoft 365 Copilot pour Loop afin de rechercher un nouveau marché potentiel pour les produits de votre entreprise et créer un rapport d’étude de marché qui met en évidence les résultats. Vous lui demandez ensuite de changer le format du rapport en mettant le contenu dans un tableau. Vous lui demandez également de faire une dernière recommandation pour savoir si votre entreprise devrait se placer sur ce marché.
 
 ### Exercice
 
-Vous êtes responsable des ventes chez VanArsdel Ltd. VanArsdel est un fabricant OEM de composants plastiques dont le marché principal est le secteur du matériel agricole. Toutefois, la direction s’intéresse à la possibilité de se placer sur le marché automobile. Compte tenu de la forte concurrence des fabricants de plastique existants qui monopolisent déjà ce secteur, vous devez déterminer s’il y a de la place pour VanArsdel et s’il pourrait devenir un acteur viable sur ce marché. Vous voulez utiliser Copilot dans Loop pour faire des recherches sur le marché automobile afin de déterminer si VanArsdel peut y occuper une place si jamais l’entreprise décide d’aller sur ce marché.
+Vous êtes responsable des ventes chez VanArsdel Ltd. VanArsdel est un fabricant OEM de composants plastiques dont le marché principal est le secteur du matériel agricole. Toutefois, la direction s’intéresse à la possibilité de se placer sur le marché automobile. Compte tenu de la forte concurrence des fabricants de plastique existants qui monopolisent déjà ce secteur, vous devez déterminer s’il y a de la place pour VanArsdel et s’il pourrait devenir un acteur viable sur ce marché. Vous souhaitez utiliser Microsoft 365 Copilot pour Loop pour faire des recherches sur le marché automobile afin de déterminer si VanArsdel peut y occuper une place si jamais elle décide de s’y engager.
 
 1.  Dans **Microsoft 365**, sélectionnez **Loop** si l’application apparaît dans le volet de navigation de gauche. Si ce n’est pas le cas, sélectionnez **Applications** puis, dans la page **Applications**, faites défiler vers le bas pour rechercher **Loop**, puis sélectionnez-la.
 2.  Dans la **Microsoft Loop**, pour créer un espace de travail pour ce projet, sélectionnez **+** dans le coin supérieur droit de la page.

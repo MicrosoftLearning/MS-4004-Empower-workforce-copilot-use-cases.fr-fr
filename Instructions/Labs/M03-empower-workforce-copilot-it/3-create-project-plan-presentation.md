@@ -1,5 +1,5 @@
 
-# Créez une présentation du plan de projet à l’aide de Copilot dans PowerPoint
+# Créez une présentation du plan de projet à l’aide de Microsoft 365 Copilot dans PowerPoint
 ---
 La maîtrise de l’utilisation de Copilot pour PowerPoint est une compétence stratégique pour les informaticiens souhaitant accroître l’impact de leurs présentations. Dans le monde de l’entreprise, une communication efficace grâce à des jeux de diapositives attrayantes est primordiale. Copilot pour PowerPoint agit comme un collaborateur intelligent, proposant des suggestions et des améliorations en temps réel à mesure que les informaticiens créent leurs présentations. Cet outil accélère non seulement le processus de création, mais garantit également un contenu attrayant, clair et en adéquation avec le public prévu.
 
@@ -10,15 +10,15 @@ Les informaticiens peuvent avoir besoin de créer des présentations PowerPoint 
  -  Expliquer des concepts techniques complexes à des publics non techniques, tels que les parties prenantes ou les investisseurs.
  -  Présenter leur travail ou promouvoir leurs services auprès de clients potentiels.
 
-Avec Copilot pour PowerPoint, vous pouvez créer une présentation à partir d’un document Word existant. Lorsque vous fournissez à Copilot pour PowerPoint le lien vers votre document Word, il peut vous aider à générer des diapositives, appliquer des dispositions et choisir un thème.
+Avec Microsoft 365 Copilot pour PowerPoint, vous pouvez créer une présentation à partir d’un document Word existant. Lorsque vous fournissez à Microsoft 365 Copilot pour PowerPoint le lien vers votre document Word, celui-ci peut vous aider à générer des diapositives, appliquer des dispositions et choisir un thème.
 
 Dans l’exercice précédent, vous avez créé un plan de projet pour installer un produit de sécurité réseau. Vous avez ensuite demandé à Copilot d’analyser un rapport de spécification de produit concernant le produit de sécurité réseau et de mettre à jour le plan de projet avec des informations dudit rapport.
 
-Dans cet exercice, vous utilisez Copilot pour PowerPoint pour créer un diaporama basé sur le plan de projet. Vous souhaitez utiliser cette présentation pour expliquer le plan de projet à votre équipe informatique et, en fin de compte, à la direction de l’entreprise.
+Dans cet exercice, vous allez utiliser Microsoft 365 Copilot pour PowerPoint pour créer un diaporama basé sur le plan de projet. Vous souhaitez utiliser cette présentation pour expliquer le plan de projet à votre équipe informatique et, en fin de compte, à la direction de l’entreprise.
 
 ### Exercice
 
-En tant que directeur informatique chez Adatum Corporation, vous prévoyez d’installer le produit de sécurité réseau Contoso CipherGuard Sentinel X7 dans votre réseau d’entreprise. Dans l’exercice précédent, vous avez utilisé Microsoft Copilot pour créer un plan de projet d’installation. Vous souhaitez à présent utiliser Copilot pour PowerPoint pour créer un diaporama basé sur ledit plan. Vous devez présenter le plan de projet à votre équipe informatique et, éventuellement, à la direction de l’entreprise. Effectuez les étapes suivantes pour créer le jeu de diapositives à utiliser dans votre présentation.
+En tant que directeur informatique chez Adatum Corporation, vous prévoyez d’installer le produit de sécurité réseau Contoso CipherGuard Sentinel X7 dans votre réseau d’entreprise. Dans l’exercice précédent, vous avez utilisé Business Chat pour créer un plan de projet d’installation. Vous souhaitez à présent utiliser Microsoft 365 Copilot pour PowerPoint pour créer un diaporama basé sur ce plan. Vous devez présenter le plan de projet à votre équipe informatique et, éventuellement, à la direction de l’entreprise. Effectuez les étapes suivantes pour créer le jeu de diapositives à utiliser dans votre présentation.
 
 1.  Si vous avez effectué l’exercice précédent et créé un fichier **Contoso CipherGuard project plan.docx**, assurez-vous qu’il a été copié dans votre compte OneDrive et passez à l’étape suivante. Toutefois, si vous n’avez pas pu créer ce plan de projet au cours de l’exercice précédent, sélectionnez le lien suivant pour télécharger un [plan de projet Contoso CipherGuard](https://go.microsoft.com/fwlink/?linkid=2268924) créé pour vous. Une fois le fichier téléchargé, copiez-le dans votre compte OneDrive.
 2.  À ce stade, vous devez disposer d’un fichier **Contoso CipherGuard project plan.docx** stocké dans votre compte OneDrive. Ouvrez le fichier pour vérifier que tout est en ordre, puis fermez-le. Cela permet de s’assurer de son affichage dans la liste de fichiers utilisés récemment (MRU).
@@ -26,8 +26,8 @@ En tant que directeur informatique chez Adatum Corporation, vous prévoyez d’i
 4.  Sur la page d’accueil de **Microsoft 365**, sélectionnez l’icône de **PowerPoint** dans le volet de navigation de gauche.
 5.  Dans **PowerPoint**, ouvrez une nouvelle présentation.
 6.  Sélectionnez l’option **Copilot** sur le côté droit du ruban.
-7.  Dans le volet **Copilot** qui s’affiche, vous pouvez choisir parmi les différents prompts prédéfinis disponibles. Sélectionnez l’invite **Créer une présentation à partir d’un fichier**.
-8.  Dans le champ d’invite en bas du volet **Copilot**, Copilot insère automatiquement le texte suivant : **Créer une présentation à partir d’un fichier /**. La barre oblique est l’indicateur Copilot universel pour entrer le lien vers un fichier. Dans ce cas, cela entraîne Copilot à ouvrir une fenêtre **Suggestions** qui affiche les trois derniers fichiers utilisés.
+7.  Dans le volet **Copilot** qui s’affiche, vous pouvez choisir parmi les différents prompts prédéfinis disponibles. Sélectionnez le prompt **Créer une présentation à partir d’un fichier**.
+8.  Dans le champ d’invite en bas du volet **Copilot**, Copilot insère automatiquement le texte suivant : **Créer une présentation à partir du fichier /**. La barre oblique est l’indicateur Microsoft 365 Copilot universel pour saisir un lien vers un fichier. Dans ce cas, cela entraîne Copilot à ouvrir une fenêtre **Suggestions** qui affiche les trois derniers fichiers utilisés.
      -  Si votre fichier y apparaît, sélectionnez-le et passez à l’étape suivante.
      -  Si le fichier n’en fait pas partie, sélectionnez la flèche droite (**&gt;**) dans le coin supérieur droit de la fenêtre **Suggestions** pour afficher une liste de fichiers MRU développée. Si le fichier apparaît, sélectionnez-le et passez à l’étape suivante.
      -  Si votre fichier n’est pas dans la liste MRU développée, vous devez copier le lien vers le rapport et le coller dans le champ d’invite. Pour ce faire :
