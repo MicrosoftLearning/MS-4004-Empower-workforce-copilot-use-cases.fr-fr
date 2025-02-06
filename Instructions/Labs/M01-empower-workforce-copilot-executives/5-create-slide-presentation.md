@@ -1,19 +1,19 @@
 
-# Créer une présentation avec des diapositives à l’aide de Copilot dans PowerPoint
+# Créer une présentation avec des diapositives à l’aide de Microsoft 365 Copilot dans PowerPoint
 ---
 La maîtrise de l’utilisation de Copilot pour PowerPoint est une compétence stratégique pour les cadres et dirigeants souhaitant accroître l’impact de leurs présentations. Pour un dirigeant, une communication efficace par le biais de jeux de diapositives percutants est primordiale. Copilot pour PowerPoint fait office de collaborateur intelligent en proposant des suggestions et des améliorations en temps réel pendant que vous préparez vos présentations. Non seulement cet outil accélère le processus de création, mais il s’assure aussi que le contenu est engageant, clair et en adéquation avec le public visé.
 
 Maîtriser Copilot pour PowerPoint vous procurera un avantage concurrentiel en vous permettant de peaufiner vos messages sans effort, d’améliorer leur attrait visuel et de conserver un niveau de qualité professionnel. Cette compétence vous fera non seulement gagner du temps, mais elle vous permettra aussi de préparer des présentations qui marqueront les esprits, en favorisant une communication efficace et en renforçant l’influence de votre leadership.
 
-Avec Copilot pour PowerPoint, vous pouvez créer une présentation à partir d’un document Word existant. Lorsque vous fournissez à Copilot pour PowerPoint le lien vers votre document Word, celui-ci peut vous aider à générer des diapositives, appliquer des dispositions et choisir un thème.
+Avec Microsoft 365 Copilot pour PowerPoint, vous pouvez créer une présentation à partir d’un document Word existant. Lorsque vous fournissez à Microsoft 365 Copilot pour PowerPoint le lien vers votre document Word, celui-ci peut vous aider à générer des diapositives, appliquer des dispositions et choisir un thème.
 
 ### Exercice
 
 En tant que directeur technique de votre organisation, vous devez rencontrer la semaine prochaine les autres dirigeants et préparer une présentation sur les progrès effectués en matière de transformation numérique au sein de l’organisation. Votre assistant vous a fourni un résumé de la progression et de l’impact du projet jusqu’à présent.
 
-Dans l’exercice précédent, vous avez utilisé Copilot dans Word pour écrire un discours basé sur les informations contenues dans le rapport. Dans cet exercice, vous allez utiliser Copilot pour PowerPoint afin de créer un diaporama basé sur votre discours. Pour ce faire, vous devez commencer par copier le lien dans le fichier **Digital Transformation Speech.docx** que vous avez créé dans l’exercice précédent.
+Dans l’exercice précédent, vous avez utilisé Microsoft 365 Copilot pour Word pour écrire un discours basé sur les informations contenues dans le rapport de progression. Dans cet exercice, vous allez utiliser Microsoft 365 Copilot pour PowerPoint afin de créer un diaporama basé sur votre discours. Pour ce faire, vous devez commencer par copier le lien dans le fichier **Digital Transformation Speech.docx** que vous avez créé dans l’exercice précédent.
 
-Dans l’exercice précédent, vous avez accédé au résumé dans Copilot en accédant au fichier à partir de la liste Derniers utilisés. Dans cet exercice, vous allez accéder à un fichier en utilisant un autre processus pour acquérir une nouvelle expérience. Au lieu de vous servir de la liste Derniers utilisés, vous prévoyez d’accéder au discours en copiant le chemin du fichier correspondant dans Copilot via l’option **Partager** dans Word. Effectuez les étapes suivantes pour que Copilot dans PowerPoint crée un brouillon de votre présentation :
+Dans l’exercice précédent, vous avez accédé au résumé dans Copilot en accédant au fichier à partir de la liste Derniers utilisés. Dans cet exercice, vous allez accéder à un fichier en utilisant un autre processus pour acquérir une nouvelle expérience. Au lieu de vous servir de la liste Derniers utilisés, vous prévoyez d’accéder au discours en copiant le chemin du fichier correspondant dans Copilot via l’option **Partager** dans Word. Effectuez les étapes suivantes pour que Microsoft 365 Copilot pour PowerPoint crée un brouillon de votre présentation :
 
 1.  Si vous avez un onglet Microsoft 365 ouvert dans votre navigateur Edge, sélectionnez-le maintenant. Sinon, ouvrez un nouvel onglet et entrez l’URL suivante : **https://www.office.com**.
 
@@ -44,7 +44,7 @@ Dans l’exercice précédent, vous avez accédé au résumé dans Copilot en ac
     
     Dans le champ de prompt, Copilot écrit automatiquement **Créer une présentation à partir d’un fichier /**. Placez votre curseur après la barre oblique et entrez **Ctrl+V** pour coller le lien vers ce document dans le prompt.
     
-    ![Capture d’écran montrant le champ de prompt Copilot dans PowerPoint avec le prompt Créer une présentation à partir d’un fichier et le lien vers le fichier.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
+    ![Capture d’écran montrant le champ de prompt de Microsoft 365 Copilot pour PowerPoint avec le prompt Créer une présentation à partir d’un fichier, et le lien vers le fichier.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
     
 12. Sélectionnez l’icône **Envoyer**.
 
@@ -64,6 +64,6 @@ Dans l’exercice précédent, vous avez accédé au résumé dans Copilot en ac
     
     **Ajoute une nouvelle diapositive après la diapositive 1. Cette diapositive doit avoir une image d’un sommet de montagne dans les Alpes. En bas de la diapositive, ajoute une zone de texte qui dit : Devise de l’entreprise Fabrikam - « Nous surmontons tous les obstacles. » Ajoute des notes de présentateur à cette nouvelle diapositive qui parlent de la façon dont Fabrikam s’applique à répondre à la demande de chaque client, sans jamais laisser d’obstacle en travers de son chemin vers le succès**.
 
-18. Passez en revue la nouvelle diapositive créée. Dans quelle mesure Copilot a-t-il réussi à créer cette diapositive ?
+18. Passez en revue la nouvelle diapositive créée. À quel point Microsoft 365 Copilot a-t-il réussi à créer cette diapositive ?
 
 19. Les autres exercices de formation de ce module n’utilisant pas cette présentation, vous pouvez la laisser ou l’enregistrer si vous la voulez pour l’utiliser ultérieurement.

@@ -1,8 +1,8 @@
-# Résumer des résultats financiers à l’aide de Copilot dans Word
+# Résumer des résultats financiers à l’aide de Microsoft 365 Copilot pour Word
 ---
-Dans l’exercice précédent, vous avez utilisé Copilot dans Word pour analyser un tableau de données, puis créer un rapport qui résume les informations contenues dans ce fichier. Dans cet exercice, vous ouvrez un fichier contenant un tableau des résultats financiers d’une entreprise sur cinq années, puis vous demandez à Copilot dans Word de résumer les résultats financiers qui apparaissent dans le tableau.
+Dans l’exercice précédent, vous avez utilisé Microsoft 365 Copilot pour Word pour analyser un tableau de données, puis créer un rapport qui résume les informations contenues dans ce fichier. Dans cet exercice, vous allez ouvrir un fichier contenant un tableau des résultats financiers sur cinq années d’une entreprise, puis demander à Microsoft 365 Copilot pour Word de résumer les résultats financiers qui apparaissent dans le tableau.
 
-Alors que l’exercice précédent a créé pour vous un rapport en fonction d’un fichier que vous avez joint dans l’invite, cet exercice affiche un résumé dans le volet Copilot d’un fichier que vous avez ouvert. C’est à vous de décider si vous souhaitez copier et coller les résultats dans le document. L’objectif de cet exercice est de montrer la flexibilité d’évaluation et de résumé de documents de Copilot dans Word, dans le cas présent, des documents contenant des résultats financiers.
+Alors que l’exercice précédent a créé pour vous un rapport en fonction d’un fichier que vous avez joint dans l’invite, cet exercice affiche un résumé dans le volet Copilot d’un fichier que vous avez ouvert. C’est à vous de décider si vous souhaitez copier et coller les résultats dans le document. L’objectif de cet exercice est de montrer la flexibilité d’évaluation et de résumé de documents de Microsoft 365 Copilot pour Word. Dans le cas présent, il s’agit de documents contenant des résultats financiers.
 
 ### Exercice
 
@@ -12,7 +12,7 @@ En tant que directeur financier d’Adatum Corporation, un fabricant américain 
  -  Vous souhaitez diriger l’entreprise dans la bonne direction et vous assurer qu’elle reste financièrement viable et apte à répondre à ses objectifs opérationnels.
  -  Vous souhaitez juger les performances en évaluant le pourcentage d’augmentation ou de diminution des dépenses et des ventes, ce qui vous permet de mesurer les performances opérationnelles et d’adapter vos stratégies.
 
-Pour effectuer cette tâche, vous allez ouvrir un document Word préparé par votre équipe comptable qui fournit un résumé financier des performances annuelles de l’entreprise sur les cinq dernières années. Vous allez ensuite utiliser Copilot dans Word pour résumer les performances de l’entreprise pendant cette période.
+Pour effectuer cette tâche, vous allez ouvrir un document Word préparé par votre équipe comptable qui fournit un résumé financier des performances annuelles de l’entreprise sur les cinq dernières années. Vous allez ensuite utiliser Microsoft 365 Copilot pour Word pour résumer les performances de l’entreprise au cours de cette période.
 
 1.  Sélectionnez le lien suivant pour télécharger le fichier [Adatum 5 Year Financial Results](https://go.microsoft.com/fwlink/?linkid=2268923).
 2.  Une fois le téléchargement terminé, ouvrez l’**explorateur de fichiers** et déplacez le fichier de votre dossier **Téléchargements** vers un dossier dans votre compte OneDrive.

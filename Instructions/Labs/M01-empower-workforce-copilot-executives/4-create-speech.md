@@ -1,5 +1,5 @@
 
-# Créer un discours à l’aide de Copilot dans Word
+# Créer un discours à l’aide de Microsoft 365 Copilot dans Word
 ---
 La maîtrise de Copilot pour Word peut être une compétence transformatrice pour les cadres et dirigeants, leur permettant d’élaborer des communications impactantes telles que des discours, des mémos et des e-mails à l’échelle de leur organisation. Une communication efficace est essentielle pour les cadres et dirigeants afin de transmettre clairement des messages aux autres dirigeants, aux employés et autres intervenants.
 
@@ -9,7 +9,7 @@ Utiliser Copilot pour Word est la garantie d’un avantage concurrentiel, en tra
 
 ### Liaison de fichiers dans Copilot
 
-Dans cet exercice, vous dirigez Copilot dans Word pour écrire un discours pour vous en fonction d’informations stockées dans un document Word. Comme vous vous en souvenez peut-être dans une formation précédente, lorsque vous liez un fichier tel que celui-ci à un prompt Copilot, le fichier DOIT se trouver dans un compte OneDrive. Vous ne pouvez pas lier à un fichier stocké localement sur votre PC.
+Dans cet exercice, vous utilisez Microsoft 365 Copilot pour Word afin qu’il écrive un discours pour vous en fonction d’informations stockées dans un document Word. Comme vous vous en souvenez peut-être dans une formation précédente, lorsque vous liez un fichier tel que celui-ci à un prompt Copilot, le fichier DOIT se trouver dans un compte OneDrive. Vous ne pouvez pas lier à un fichier stocké localement sur votre PC.
 
 Vous pouvez lier le fichier au prompt Copilot en utilisant l’une des méthodes suivantes :
 
@@ -23,11 +23,11 @@ Dans cet exercice, vous allez accéder au document depuis la liste de fichiers D
 
 Imaginons que vous soyez un directeur technique au sein d’une grande organisation et que vous ayez une réunion dans les jours à venir avec d’autres cadres de votre organisation. Lors de cette réunion, vous présenterez les progrès effectués en matière de transformation numérique au sein de l’organisation. Votre assistant vous a fourni un résumé de la progression du projet jusqu’à présent.  
 
-Vous comptez utiliser Copilot pour écrire votre discours en fonction des informations contenues dans le document de synthèse. Cet exercice vous guide tout au long d’une série de prompts que vous pouvez utiliser pour que Copilot dans Word génère votre discours, puis l’actualise en fonction des modifications que vous suggérez.
+Vous comptez utiliser Copilot pour écrire votre discours en fonction des informations contenues dans le document de synthèse. Cet exercice vous guide tout au long d’une série de prompts que vous pouvez utiliser pour que Microsoft 365 Copilot pour Word génère votre discours, puis l’actualise en fonction des modifications que vous suggérez.
 
 Pour référencer le fichier dans Copilot, cet exercice localise le fichier dans la liste des fichiers utilisés récemment.
 
-Effectuez les étapes suivantes pour générer votre discours en utilisant Copilot dans Word :
+Effectuez les étapes suivantes pour générer votre discours en utilisant Microsoft 365 Copilot pour Word :
 
 1. Sélectionnez le lien suivant pour télécharger une copie du fichier [Digital Transformation Summary.docx](https://go.microsoft.com/fwlink/?linkid=2277632).
 
@@ -64,7 +64,7 @@ Effectuez les étapes suivantes pour générer votre discours en utilisant Copil
 
 14. Copilot réécrira le texte sélectionné pour vous. Après avoir examiné le texte, vous voulez que le ton du discours soit plus professionnel. Dans la fenêtre **Réécrire avec Copilot**, sélectionnez l’option **Ajuster le ton**.
 
-    ![Capture d’écran montrant l’option Ajuster le ton dans Copilot dans Word.](../media/copilot-word-adjust-tone.png)
+    ![Capture d’écran montrant l’option Ajuster le ton dans Microsoft 365 Copilot pour Word.](../media/copilot-word-adjust-tone.png)
 
 15. Dans les options, sélectionnez **Professionnel**, puis **Régénérer**.
 
@@ -72,6 +72,6 @@ Effectuez les étapes suivantes pour générer votre discours en utilisant Copil
 
 17. Enregistrez le fichier sur votre compte OneDrive avec le nom suivant : **Digital Transformation Speech.docx**. L’exercice suivant utilisera ce document.
     
-    > **IMPORTANT :** Veillez à enregistrer le fichier sur votre OneDrive plutôt que sur votre PC local. Dans l’exercice suivant, vous utiliserez Copilot pour PowerPoint pour créer un diaporama basé sur ce document. Le document doit se trouver dans OneDrive pour Copilot pour y accéder.
+    > **IMPORTANT :** Veillez à enregistrer le fichier sur votre OneDrive plutôt que sur votre PC local. Dans l’exercice suivant, vous allez utiliser Microsoft 365 Copilot pour PowerPoint pour créer un diaporama basé sur ce document. Le document doit se trouver dans OneDrive pour Copilot pour y accéder.
 
 18. Fermez l’onglet contenant ce document dans votre navigateur Microsoft Edge.
