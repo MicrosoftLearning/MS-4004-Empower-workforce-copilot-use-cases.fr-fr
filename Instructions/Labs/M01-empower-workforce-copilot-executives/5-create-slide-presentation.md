@@ -1,69 +1,47 @@
 
 # Créer une présentation avec des diapositives à l’aide de Microsoft 365 Copilot dans PowerPoint
 ---
-La maîtrise de l’utilisation de Copilot pour PowerPoint est une compétence stratégique pour les cadres et dirigeants souhaitant accroître l’impact de leurs présentations. Pour un dirigeant, une communication efficace par le biais de jeux de diapositives percutants est primordiale. Copilot pour PowerPoint fait office de collaborateur intelligent en proposant des suggestions et des améliorations en temps réel pendant que vous préparez vos présentations. Non seulement cet outil accélère le processus de création, mais il s’assure aussi que le contenu est engageant, clair et en adéquation avec le public visé.
+Maîtriser Microsoft 365 Copilot pour PowerPoint est une compétence stratégique pour les cadres souhaitant renforcer l’impact de leurs présentations. Dans le monde de l’entreprise, une communication efficace par le biais de jeux de diapositives percutants est primordiale. Copilot pour PowerPoint fait office de collaborateur intelligent et accompagne les cadres, offrant suggestions et améliorations en temps réel au fil de la création des présentations. Non seulement cet outil accélère le processus de création, mais il s’assure aussi que le contenu est engageant, clair et en adéquation avec le public visé.
 
-Maîtriser Copilot pour PowerPoint vous procurera un avantage concurrentiel en vous permettant de peaufiner vos messages sans effort, d’améliorer leur attrait visuel et de conserver un niveau de qualité professionnel. Cette compétence vous fera non seulement gagner du temps, mais elle vous permettra aussi de préparer des présentations qui marqueront les esprits, en favorisant une communication efficace et en renforçant l’influence de votre leadership.
+Les cadres qui maîtrisent Copilot pour PowerPoint bénéficient d’un avantage concurrentiel en peaufinant leurs messages sans effort, en améliorant l’attrait visuel et en conservant un niveau professionnel. Cette compétence fait non seulement gagner du temps, mais elle permet aussi aux cadres de faire des présentations qui marquent les esprits, en favorisant une communication efficace et en renforçant l’influence du leadership dans le paysage dynamique des interactions commerciales.
 
-Avec Microsoft 365 Copilot pour PowerPoint, vous pouvez créer une présentation à partir d’un document Word existant. Lorsque vous fournissez à Microsoft 365 Copilot pour PowerPoint le lien vers votre document Word, celui-ci peut vous aider à générer des diapositives, appliquer des dispositions et choisir un thème.
+Avec Copilot pour PowerPoint, vous pouvez créer une présentation à partir d’un document Word existant. Lorsque vous fournissez à Copilot pour PowerPoint le lien vers votre document Word, celui-ci peut vous aider à générer des diapositives, appliquer des dispositions et choisir un thème.
 
 ### Exercice
 
-En tant que directeur technique de votre organisation, vous devez rencontrer la semaine prochaine les autres dirigeants et préparer une présentation sur les progrès effectués en matière de transformation numérique au sein de l’organisation. Votre assistant vous a fourni un résumé de la progression et de l’impact du projet jusqu’à présent.
+Vous êtes directeur financier chez Fabrikam, Inc., une société de services informatiques située à Minneapolis, dans le Minnesota. La semaine prochaine, vous avez rendez-vous avec les principaux actionnaires pour leur exposer l’analyse des performances de l’entreprise en fin d’année. Votre responsable du service Comptabilité vous a fourni un résumé du compte de résultats de l’entreprise.
 
-Dans l’exercice précédent, vous avez utilisé Microsoft 365 Copilot pour Word pour écrire un discours basé sur les informations contenues dans le rapport de progression. Dans cet exercice, vous allez utiliser Microsoft 365 Copilot pour PowerPoint afin de créer un diaporama basé sur votre discours. Pour ce faire, vous devez commencer par copier le lien dans le fichier **Digital Transformation Speech.docx** que vous avez créé dans l’exercice précédent.
+Dans l’exercice précédent, vous avez utilisé Copilot dans Word pour écrire le discours que vous vouliez adresser aux actionnaires sur la base du compte de résultats. Dans cet exercice, vous allez utiliser Copilot pour PowerPoint afin de créer un diaporama basé sur votre discours. Pour ce faire, commencez par copier le lien du fichier **Fabrikam Financial presentation.docx** que vous avez créé lors de l’exercice précédent.
 
-Dans l’exercice précédent, vous avez accédé au résumé dans Copilot en accédant au fichier à partir de la liste Derniers utilisés. Dans cet exercice, vous allez accéder à un fichier en utilisant un autre processus pour acquérir une nouvelle expérience. Au lieu de vous servir de la liste Derniers utilisés, vous prévoyez d’accéder au discours en copiant le chemin du fichier correspondant dans Copilot via l’option **Partager** dans Word. Effectuez les étapes suivantes pour que Microsoft 365 Copilot pour PowerPoint crée un brouillon de votre présentation :
+Dans l’exercice précédent, vous avez accédé au compte de résultats de l’entreprise dans Copilot en accédant au fichier à partir de la liste Derniers utilisés. Dans cet exercice, vous allez accéder à un fichier en utilisant un autre processus pour acquérir une nouvelle expérience. Au lieu de vous servir de la liste Derniers utilisés, vous prévoyez d’accéder au discours en copiant le chemin du fichier correspondant dans Copilot via l’option **Partager** dans Word. Effectuez les étapes suivantes pour que Copilot dans PowerPoint crée un brouillon de votre présentation :
 
-1.  Si vous avez un onglet Microsoft 365 ouvert dans votre navigateur Edge, sélectionnez-le maintenant. Sinon, ouvrez un nouvel onglet et entrez l’URL suivante : **https://www.office.com**.
+1. Si vous avez un onglet Microsoft 365 ouvert dans votre navigateur Edge, sélectionnez-le maintenant. Sinon, ouvrez un nouvel onglet et entrez l’URL suivante : [**https://www.office.com**](https://www.office.com)
+1. Dans le volet de navigation de **Microsoft 365**, sélectionnez **Word** s’il apparaît dans le volet de navigation à gauche. S’il n’apparaît pas, cliquez sur **Applications** dans le volet de navigation, puis dans la page **Applications**, sélectionnez **Word**.
+1. Dans la page des fichiers dans **Word**, effectuez un défilement vers le bas jusqu’à la liste des fichiers récents et sélectionnez **Fabrikam Financial presentation.docx** pour l’ouvrir dans un nouvel onglet de votre navigateur Microsoft Edge.
+1. Copiez l’URL du document en sélectionnant le bouton **Partager** en haut à droite, au-dessus du ruban, et en sélectionnant **Copier le lien** dans le menu déroulant qui s’affiche.
 
-2.  Dans le volet de navigation **Microsoft 365**, sélectionnez **Word** pour ouvrir la page de fichier de Word.
+    :::image type="content" source="../media/share-menu-with-copy-link-9fd1c60a-a7503d5a.png" alt-text="Capture d’écran montrant le menu Partager et l’option Copier le lien mise en évidence." border="true":::
 
-3.  Dans la page de fichier de **Word**, faites défiler vers le bas jusqu’à la liste des fichiers récents et sélectionnez **Digital Transformation Speech.docx** pour l’ouvrir dans un nouvel onglet de votre navigateur Microsoft Edge.
+    > [!TIP]
+    >  Copilot peut parfois avoir des difficultés à utiliser l’URL dans votre barre d’adresses. Copiez le lien à partir de la barre d’état **Partager** pour obtenir des résultats optimaux.
 
-4.  Copiez l’URL du document en sélectionnant le bouton **Partager** en haut à droite, au-dessus du ruban, et en sélectionnant **Copier le lien** dans le menu déroulant qui s’affiche.
-    
-    ![Capture d’écran montrant le menu Partager et l’option Copier le lien mise en évidence.](../media/share-menu-with-copy-link-9fd1c60a.png)
-    
-    
-     > **CONSEIL :** Copilot peut parfois avoir des difficultés à utiliser l’URL dans votre barre d’adresses. Copiez le lien à partir de la barre d’état **Partager** pour obtenir des résultats optimaux.
+1. Lors de nos tests, une fenêtre **Lien créé** s’affiche parfois. Si c’est votre cas, sélectionnez **Copier**, ce qui fera apparaître la fenêtre **Lien copié**. Dans d'autres cas, le lien était copié automatiquement, seule la fenêtre **Lien copié** apparaissait. Dans tous les cas, vous devez fermer la fenêtre **Lien copié**.
+1. Cette action vous renvoie à l’onglet **Word** dans votre navigateur Edge, affichant le document **Fabrikam Financial presentation**. Fermez cet onglet **Word**. 
+1. Vous devriez maintenant être de retour sur l’onglet **Accueil | Microsoft 365 Copilot** dans votre navigateur. Sélectionnez **PowerPoint** s’il apparaît dans le volet de navigation. S’il n’apparaît pas, sélectionnez **Applications** dans le volet de navigation, puis sur la page **Applications**, sélectionnez **PowerPoint**. Dans **PowerPoint**, sélectionnez le bouton **Créer une présentation vierge**.
+1. Recherchez l’icône **Copilot** qui apparaît au-dessus de la première diapositive. Si un menu s’affiche déjà sous l’icône, sélectionnez l’option **Créer une nouvelle présentation à partir d’un fichier**. Si aucun menu ne s’affiche, sélectionnez l’icône **Copilot**, puis dans le menu qui s’affiche, sélectionnez l’option **Créer une nouvelle présentation à partir d’un fichier**.
+1. Dans l’exercice précédent, vous avez lié un fichier à un prompt en sélectionnant le fichier dans la liste Derniers utilisés. Dans cet exercice, nous voulons que vous liiez un fichier à un prompt à l’aide d’une autre méthode pour acquérir une nouvelle expérience. Dans la fenêtre Copilot qui apparaît, vous devez normalement sélectionner l’option **Faire référence à un fichier** dans le champ d’invite. Toutefois, dans cet exercice de formation, même si le fichier **Fabrikam Financial presentation.docx** apparaît dans la liste utilisés récemment, imaginons qu’il n’y figure pas. Par conséquent, vous devez coller le lien vers le fichier (que vous avez copié précédemment) dans le champ d’invite Copilot. Dans ce champ, Copilot saisit automatiquement **Créer une présentation sur**. Placez votre curseur à la fin de cette invite préremplie et entrez **Ctrl+V** pour coller le lien vers ce document dans l’invite.<br><br>
 
-5.  Fermez la boîte de dialogue **Lien copié** qui s’affiche dans Word.
+    :::image type="content" source="../media/create-presentation-file.png" alt-text="Capture d’écran montrant le champ d’invite de Copilot pour PowerPoint avec le champ d’invite, Créer une présentation sur, et le lien vers le fichier." border="true":::
 
-6.  Fermez cet onglet de document dans votre navigateur Microsoft Edge. Cela vous fait revenir à l’onglet **Word \| Microsoft 365**.
-
-7.  Dans la page de fichier de Word, sélectionnez l’icône **PowerPoint** dans le volet de navigation de gauche.
-
-8.  Dans **PowerPoint**, ouvrez une nouvelle présentation vide.
-
-9.  Sélectionnez l’option **Copilot** sur le côté droit du ruban.
-
-10. Dans le volet **Copilot** qui s’affiche, vous pouvez choisir parmi les différents prompts prédéfinis disponibles. Sélectionnez le prompt **Créer une présentation à partir d’un fichier**.
-
-11. Dans l’exercice précédent, vous avez lié un fichier à un prompt en sélectionnant le fichier dans la liste Derniers utilisés. Dans cet exercice, nous voulons que vous liiez un fichier à un prompt à l’aide d’une autre méthode pour acquérir une nouvelle expérience. Au-dessus du champ de prompt situé en bas du volet **Copilot**, une fenêtre **Suggestions** apparaît avec les trois derniers fichiers utilisés. Normalement, vous sélectionnez le fichier souhaité s’il apparaît dans cette fenêtre. Toutefois, dans cet exercice de formation, même si le fichier **Digital Transformation Speech.docx** apparaît dans la liste Derniers utilisés, imaginons qu’il n’y figure pas. Par conséquent, vous devez coller le lien vers le fichier dans le champ de prompt.
-    
-    Dans le champ de prompt, Copilot écrit automatiquement **Créer une présentation à partir d’un fichier /**. Placez votre curseur après la barre oblique et entrez **Ctrl+V** pour coller le lien vers ce document dans le prompt.
-    
-    ![Capture d’écran montrant le champ de prompt de Microsoft 365 Copilot pour PowerPoint avec le prompt Créer une présentation à partir d’un fichier, et le lien vers le fichier.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
-    
-12. Sélectionnez l’icône **Envoyer**.
-
-13. Ce prompt déclenche la création par Copilot d’un diaporama basé sur le document. Ce faisant, il affiche le plan de la présentation et une liste de fonctionnalités incluses dans la présentation. Ces fonctionnalités peuvent comprendre des notes de présentateur, des images, des dispositions pour organiser les diapositives et une étiquette de confidentialité générale.
-
-14. Vous pouvez maintenant passer en revue les diapositives et apporter les changements nécessaires. Vous pouvez utiliser l’outil **Concepteur** pour ajuster les dispositions.
-
-15. Lorsque vous passez en revue les diapositives, recherchez les références au « présentateur » ou à tout autre élément que vous devrez peut-être changer. Par exemple, dans la série de tests de cet exercice, PowerPoint a créé une diapositive Introduction qui comprenait le texte suivant :
-    
-    **Le présentateur fait une présentation sur la transformation numérique. La présentation fait la synthèse des principaux résultats et explique dans quelle mesure ils s’alignent sur la vision stratégique et les objectifs de l’entreprise**.
-    
-    Notez la référence au « présentateur » ainsi que la deuxième phrase qui commence par « La présentation fait la synthèse... ». Ces exemples sont des instances de texte que vous devriez rechercher dans les présentations créées par Copilot. Vous devriez supprimer ces types de références, car ils conviennent mieux comme notes de présentateur que comme texte destiné à une audience.
-
-16. Passez en revue les notes du présentateur que Copilot a ajoutées à la présentation. Vérifiez que les points que vous souhaitez aborder pendant la présentation sont présents.
-
-17. Essayez d’utiliser Copilot pour mettre à jour la présentation. Par exemple, entrez le prompt suivant :
-    
-    **Ajoute une nouvelle diapositive après la diapositive 1. Cette diapositive doit avoir une image d’un sommet de montagne dans les Alpes. En bas de la diapositive, ajoute une zone de texte qui dit : Devise de l’entreprise Fabrikam - « Nous surmontons tous les obstacles. » Ajoute des notes de présentateur à cette nouvelle diapositive qui parlent de la façon dont Fabrikam s’applique à répondre à la demande de chaque client, sans jamais laisser d’obstacle en travers de son chemin vers le succès**.
-
-18. Passez en revue la nouvelle diapositive créée. À quel point Microsoft 365 Copilot a-t-il réussi à créer cette diapositive ?
-
-19. Les autres exercices de formation de ce module n’utilisant pas cette présentation, vous pouvez la laisser ou l’enregistrer si vous la voulez pour l’utiliser ultérieurement.
+1. Sélectionnez l’icône **Envoyer**.
+1. Copilot pour PowerPoint utilise ces informations pour générer une liste de sujets de présentation. Il ne génère pas les diapositives tant que vous n’avez pas sélectionné le bouton **Générer des diapositives**. Au contraire, il présente d’abord les sujets afin que vous puissiez les modifier, si nécessaire, avant de créer les diapositives.  
+1. Vous pouvez réorganiser l’ordre des sujets si vous le souhaitez. Chaque groupe de sujets contient un titre principal et une liste de sous-thèmes. Si vous pointez la zone des sujets, une icône **Réorganiser le sujet** apparaît à gauche du sujet. Maintenez cette icône enfoncée, puis faites glisser et déplacez l’intégralité de la section du sujet vers le haut ou vers le bas dans la liste pour la déplacer vers un autre emplacement dans la présentation.
+1. Si vous souhaitez retirer un sujet de la présentation, pointez le sujet puis sélectionnez l’icône représentant une corbeille (**Supprimer**) qui s’affiche. 
+1. Lorsque vous avez finalisé la liste des sujets, sélectionnez le bouton **Générer les diapositives**. Cette action déclenche la création d’une présentation par Copilot, basée sur la liste de sujets. 
+1. Une fois la génération terminée, Copilot affiche les diapositives en mode **Trieur de diapositives**. Dans le ruban PowerPoint, sélectionnez **Affichage**. Dans le ruban **Affichage**, au sein du groupe **Modes de présentation**, notez que l’option **Trieur de diapositives** est sélectionnée. Sélectionnez **Normal** pour afficher les diapositives dans l’ordre traditionnel.
+1. Vous pouvez maintenant passer en revue les diapositives et apporter les changements nécessaires. Vous pouvez utiliser l’outil **Concepteur** pour ajuster les dispositions.
+1. Par défaut, Copilot pour PowerPoint ne génère pas de notes d’intervenant au moment où il crée les diapositives. Toutefois, vous pouvez le demander lors de votre invite initiale ou après la génération des diapositives pour ajouter des notes de l’intervenant à chaque diapositive. Par exemple, maintenant que les diapositives sont créées, entrez l’invite suivante : **Ajoutez des notes de l’intervenant à chaque diapositive**. Note : Copilot peut prendre quelques minutes pour générer les notes de l’intervenant. 
+1. Passez en revue les notes de l’intervenant générées par Copilot. Lors de nos tests, Copilot affiche parfois les notes en bas de chaque diapositive ; D’autres fois, nous avons dû sélectionner l’option **Notes** en bas de la page pour afficher les notes de chaque diapositive. Dans les deux cas, examinez les notes de l’intervenant ajoutées à la présentation. Vérifiez que ces notes couvrent bien les points que vous souhaitez aborder durant la présentation.
+1. Essayez d’utiliser Copilot pour mettre à jour la présentation. Par exemple, entrez le prompt suivant : **Ajoute une nouvelle diapositive après la diapositive 1. Cette diapositive doit avoir une image d’un sommet de montagne dans les Alpes. En bas de la diapositive, ajoute une zone de texte qui dit : « Devise de l’entreprise Fabrikam : Nous surmontons tous les obstacles. » Ajoute des notes de présentateur à cette nouvelle diapositive qui parlent de la façon dont Fabrikam s’applique à répondre à la demande de chaque client, sans jamais laisser d’obstacle en travers de son chemin vers le succès**.
+1. Passez en revue la nouvelle diapositive créée. Dans quelle mesure Copilot a-t-il réussi à créer cette diapositive ? Cette diapositive a-t-elle été insérée au bon endroit ? Quelle est la qualité générale de l’image et de la diapositive ?
+1. Les autres exercices de formation de ce module n’utilisant pas cette présentation, vous pouvez la laisser ou l’enregistrer si vous la voulez pour l’utiliser ultérieurement.
