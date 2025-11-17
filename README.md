@@ -1,3 +1,4 @@
+**⚠️ This GitHub repo will retire on 28th November 2025.** 
 # INF99X : Exemple de cours
 
 **Êtes-vous MCT ?** - Consultez notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
